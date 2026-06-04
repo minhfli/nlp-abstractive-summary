@@ -2,14 +2,14 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "55dee5ed",
+   "id": "ef0e40ae",
    "metadata": {
     "id": "OhmXhGHxys4e",
     "papermill": {
-     "duration": 0.015742,
-     "end_time": "2026-06-04T17:16:26.830990+00:00",
+     "duration": 0.011015,
+     "end_time": "2026-06-04T19:22:10.348939+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:26.815248+00:00",
+     "start_time": "2026-06-04T19:22:10.337924+00:00",
      "status": "completed"
     },
     "tags": []
@@ -20,13 +20,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "d8f731fa",
+   "id": "3e3dd583",
    "metadata": {
     "papermill": {
-     "duration": 0.011659,
-     "end_time": "2026-06-04T17:16:26.855047+00:00",
+     "duration": 0.008967,
+     "end_time": "2026-06-04T19:22:10.367280+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:26.843388+00:00",
+     "start_time": "2026-06-04T19:22:10.358313+00:00",
      "status": "completed"
     },
     "tags": []
@@ -38,19 +38,19 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "0a94dde9",
+   "id": "706ce291",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:16:26.878805Z",
-     "iopub.status.busy": "2026-06-04T17:16:26.878481Z",
-     "iopub.status.idle": "2026-06-04T17:16:30.035122Z",
-     "shell.execute_reply": "2026-06-04T17:16:30.034125Z"
+     "iopub.execute_input": "2026-06-04T19:22:10.386497Z",
+     "iopub.status.busy": "2026-06-04T19:22:10.386276Z",
+     "iopub.status.idle": "2026-06-04T19:22:18.138901Z",
+     "shell.execute_reply": "2026-06-04T19:22:18.138297Z"
     },
     "papermill": {
-     "duration": 3.171098,
-     "end_time": "2026-06-04T17:16:30.037256+00:00",
+     "duration": 7.764433,
+     "end_time": "2026-06-04T19:22:18.140759+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:26.866158+00:00",
+     "start_time": "2026-06-04T19:22:10.376326+00:00",
      "status": "completed"
     },
     "tags": []
@@ -65,14 +65,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "bda1b7de",
+   "id": "d1abfe69",
    "metadata": {
     "id": "bX1OJOr5zd0t",
     "papermill": {
-     "duration": 0.011316,
-     "end_time": "2026-06-04T17:16:30.060920+00:00",
+     "duration": 0.009596,
+     "end_time": "2026-06-04T19:22:18.160127+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.049604+00:00",
+     "start_time": "2026-06-04T19:22:18.150531+00:00",
      "status": "completed"
     },
     "tags": []
@@ -83,14 +83,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "38305d13",
+   "id": "651ed10f",
    "metadata": {
     "id": "IeNeiT2w0190",
     "papermill": {
-     "duration": 0.011117,
-     "end_time": "2026-06-04T17:16:30.083463+00:00",
+     "duration": 0.008855,
+     "end_time": "2026-06-04T19:22:18.177873+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.072346+00:00",
+     "start_time": "2026-06-04T19:22:18.169018+00:00",
      "status": "completed"
     },
     "tags": []
@@ -109,20 +109,20 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "ccba8366",
+   "id": "524191f8",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:16:30.108586Z",
-     "iopub.status.busy": "2026-06-04T17:16:30.108166Z",
-     "iopub.status.idle": "2026-06-04T17:16:30.115775Z",
-     "shell.execute_reply": "2026-06-04T17:16:30.114787Z"
+     "iopub.execute_input": "2026-06-04T19:22:18.197042Z",
+     "iopub.status.busy": "2026-06-04T19:22:18.196599Z",
+     "iopub.status.idle": "2026-06-04T19:22:18.202941Z",
+     "shell.execute_reply": "2026-06-04T19:22:18.202450Z"
     },
     "id": "MFdozaNqyp_7",
     "papermill": {
-     "duration": 0.022188,
-     "end_time": "2026-06-04T17:16:30.117554+00:00",
+     "duration": 0.017649,
+     "end_time": "2026-06-04T19:22:18.204319+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.095366+00:00",
+     "start_time": "2026-06-04T19:22:18.186670+00:00",
      "status": "completed"
     },
     "tags": []
@@ -157,14 +157,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "1ddfefe3",
+   "id": "df3edc40",
    "metadata": {
     "id": "7v2l_GCIF_Nj",
     "papermill": {
-     "duration": 0.011526,
-     "end_time": "2026-06-04T17:16:30.140424+00:00",
+     "duration": 0.008812,
+     "end_time": "2026-06-04T19:22:18.222323+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.128898+00:00",
+     "start_time": "2026-06-04T19:22:18.213511+00:00",
      "status": "completed"
     },
     "tags": []
@@ -175,14 +175,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "35351969",
+   "id": "1060fc77",
    "metadata": {
     "id": "StttuiVOGhT7",
     "papermill": {
-     "duration": 0.011826,
-     "end_time": "2026-06-04T17:16:30.163595+00:00",
+     "duration": 0.009197,
+     "end_time": "2026-06-04T19:22:18.240361+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.151769+00:00",
+     "start_time": "2026-06-04T19:22:18.231164+00:00",
      "status": "completed"
     },
     "tags": []
@@ -197,20 +197,20 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "604cd3ad",
+   "id": "548402d3",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:16:30.188957Z",
-     "iopub.status.busy": "2026-06-04T17:16:30.188323Z",
-     "iopub.status.idle": "2026-06-04T17:16:30.194057Z",
-     "shell.execute_reply": "2026-06-04T17:16:30.193027Z"
+     "iopub.execute_input": "2026-06-04T19:22:18.259792Z",
+     "iopub.status.busy": "2026-06-04T19:22:18.259143Z",
+     "iopub.status.idle": "2026-06-04T19:22:18.263422Z",
+     "shell.execute_reply": "2026-06-04T19:22:18.262677Z"
     },
     "id": "t6Y6-aBfGg5V",
     "papermill": {
-     "duration": 0.020574,
-     "end_time": "2026-06-04T17:16:30.196011+00:00",
+     "duration": 0.0157,
+     "end_time": "2026-06-04T19:22:18.264875+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.175437+00:00",
+     "start_time": "2026-06-04T19:22:18.249175+00:00",
      "status": "completed"
     },
     "tags": []
@@ -229,14 +229,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "470cf3c3",
+   "id": "17036ab8",
    "metadata": {
     "id": "RSzXtBjYIMjN",
     "papermill": {
-     "duration": 0.011024,
-     "end_time": "2026-06-04T17:16:30.218347+00:00",
+     "duration": 0.009771,
+     "end_time": "2026-06-04T19:22:18.283822+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.207323+00:00",
+     "start_time": "2026-06-04T19:22:18.274051+00:00",
      "status": "completed"
     },
     "tags": []
@@ -247,14 +247,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "c02a0ecd",
+   "id": "2e45cafe",
    "metadata": {
     "id": "oVEzUnyGJEiw",
     "papermill": {
-     "duration": 0.011163,
-     "end_time": "2026-06-04T17:16:30.240801+00:00",
+     "duration": 0.009156,
+     "end_time": "2026-06-04T19:22:18.302052+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.229638+00:00",
+     "start_time": "2026-06-04T19:22:18.292896+00:00",
      "status": "completed"
     },
     "tags": []
@@ -266,20 +266,20 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "0c74587e",
+   "id": "2f420852",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:16:30.265621Z",
-     "iopub.status.busy": "2026-06-04T17:16:30.264478Z",
-     "iopub.status.idle": "2026-06-04T17:16:30.271477Z",
-     "shell.execute_reply": "2026-06-04T17:16:30.270529Z"
+     "iopub.execute_input": "2026-06-04T19:22:18.322015Z",
+     "iopub.status.busy": "2026-06-04T19:22:18.321228Z",
+     "iopub.status.idle": "2026-06-04T19:22:18.326686Z",
+     "shell.execute_reply": "2026-06-04T19:22:18.326114Z"
     },
     "id": "tiKXj1eAIOG8",
     "papermill": {
-     "duration": 0.021366,
-     "end_time": "2026-06-04T17:16:30.273344+00:00",
+     "duration": 0.017007,
+     "end_time": "2026-06-04T19:22:18.328025+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.251978+00:00",
+     "start_time": "2026-06-04T19:22:18.311018+00:00",
      "status": "completed"
     },
     "tags": []
@@ -309,20 +309,20 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "b6f9ea53",
+   "id": "065361d1",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:16:30.298309Z",
-     "iopub.status.busy": "2026-06-04T17:16:30.297864Z",
-     "iopub.status.idle": "2026-06-04T17:16:30.305905Z",
-     "shell.execute_reply": "2026-06-04T17:16:30.305005Z"
+     "iopub.execute_input": "2026-06-04T19:22:18.348586Z",
+     "iopub.status.busy": "2026-06-04T19:22:18.347910Z",
+     "iopub.status.idle": "2026-06-04T19:22:18.354542Z",
+     "shell.execute_reply": "2026-06-04T19:22:18.353766Z"
     },
     "id": "AjaDM1Uurfbx",
     "papermill": {
-     "duration": 0.02295,
-     "end_time": "2026-06-04T17:16:30.307633+00:00",
+     "duration": 0.018663,
+     "end_time": "2026-06-04T19:22:18.355976+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.284683+00:00",
+     "start_time": "2026-06-04T19:22:18.337313+00:00",
      "status": "completed"
     },
     "tags": []
@@ -370,20 +370,20 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "cf0d09e8",
+   "id": "bbb49f75",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:16:30.332407Z",
-     "iopub.status.busy": "2026-06-04T17:16:30.332069Z",
-     "iopub.status.idle": "2026-06-04T17:16:30.340872Z",
-     "shell.execute_reply": "2026-06-04T17:16:30.339886Z"
+     "iopub.execute_input": "2026-06-04T19:22:18.376351Z",
+     "iopub.status.busy": "2026-06-04T19:22:18.375881Z",
+     "iopub.status.idle": "2026-06-04T19:22:18.383423Z",
+     "shell.execute_reply": "2026-06-04T19:22:18.382569Z"
     },
     "id": "fkuVIhBWWiI-",
     "papermill": {
-     "duration": 0.023696,
-     "end_time": "2026-06-04T17:16:30.342528+00:00",
+     "duration": 0.019368,
+     "end_time": "2026-06-04T19:22:18.384892+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.318832+00:00",
+     "start_time": "2026-06-04T19:22:18.365524+00:00",
      "status": "completed"
     },
     "tags": []
@@ -441,14 +441,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "8e0f8c85",
+   "id": "0509a784",
    "metadata": {
     "id": "1zcga-BcNmXv",
     "papermill": {
-     "duration": 0.011704,
-     "end_time": "2026-06-04T17:16:30.365632+00:00",
+     "duration": 0.009989,
+     "end_time": "2026-06-04T19:22:18.404856+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.353928+00:00",
+     "start_time": "2026-06-04T19:22:18.394867+00:00",
      "status": "completed"
     },
     "tags": []
@@ -459,14 +459,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "417b92b8",
+   "id": "2e336aa9",
    "metadata": {
     "id": "4IvI3B0eNnNZ",
     "papermill": {
-     "duration": 0.01143,
-     "end_time": "2026-06-04T17:16:30.388861+00:00",
+     "duration": 0.010122,
+     "end_time": "2026-06-04T19:22:18.425061+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.377431+00:00",
+     "start_time": "2026-06-04T19:22:18.414939+00:00",
      "status": "completed"
     },
     "tags": []
@@ -477,14 +477,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "657aa02f",
+   "id": "b2500cb8",
    "metadata": {
     "id": "gTae-GDhF9cA",
     "papermill": {
-     "duration": 0.011053,
-     "end_time": "2026-06-04T17:16:30.411139+00:00",
+     "duration": 0.009754,
+     "end_time": "2026-06-04T19:22:18.444619+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.400086+00:00",
+     "start_time": "2026-06-04T19:22:18.434865+00:00",
      "status": "completed"
     },
     "tags": []
@@ -496,20 +496,20 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "66def92a",
+   "id": "028c49a6",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:16:30.435511Z",
-     "iopub.status.busy": "2026-06-04T17:16:30.435033Z",
-     "iopub.status.idle": "2026-06-04T17:16:30.441116Z",
-     "shell.execute_reply": "2026-06-04T17:16:30.440182Z"
+     "iopub.execute_input": "2026-06-04T19:22:18.464915Z",
+     "iopub.status.busy": "2026-06-04T19:22:18.464719Z",
+     "iopub.status.idle": "2026-06-04T19:22:18.469049Z",
+     "shell.execute_reply": "2026-06-04T19:22:18.468470Z"
     },
     "id": "97BDhH3JGAEY",
     "papermill": {
-     "duration": 0.020703,
-     "end_time": "2026-06-04T17:16:30.443018+00:00",
+     "duration": 0.015994,
+     "end_time": "2026-06-04T19:22:18.470394+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.422315+00:00",
+     "start_time": "2026-06-04T19:22:18.454400+00:00",
      "status": "completed"
     },
     "tags": []
@@ -531,14 +531,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "7cc3bb7d",
+   "id": "bb009592",
    "metadata": {
     "id": "TyzUIcGvGqsU",
     "papermill": {
-     "duration": 0.011509,
-     "end_time": "2026-06-04T17:16:30.466377+00:00",
+     "duration": 0.008934,
+     "end_time": "2026-06-04T19:22:18.488637+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.454868+00:00",
+     "start_time": "2026-06-04T19:22:18.479703+00:00",
      "status": "completed"
     },
     "tags": []
@@ -550,20 +550,20 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "264f0fdc",
+   "id": "9f2bf47a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:16:30.493843Z",
-     "iopub.status.busy": "2026-06-04T17:16:30.493271Z",
-     "iopub.status.idle": "2026-06-04T17:16:30.500013Z",
-     "shell.execute_reply": "2026-06-04T17:16:30.498896Z"
+     "iopub.execute_input": "2026-06-04T19:22:18.508181Z",
+     "iopub.status.busy": "2026-06-04T19:22:18.507985Z",
+     "iopub.status.idle": "2026-06-04T19:22:18.512715Z",
+     "shell.execute_reply": "2026-06-04T19:22:18.512091Z"
     },
     "id": "v5eMuje7GsWp",
     "papermill": {
-     "duration": 0.023354,
-     "end_time": "2026-06-04T17:16:30.501919+00:00",
+     "duration": 0.016035,
+     "end_time": "2026-06-04T19:22:18.514090+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.478565+00:00",
+     "start_time": "2026-06-04T19:22:18.498055+00:00",
      "status": "completed"
     },
     "tags": []
@@ -586,14 +586,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "d6a1a45c",
+   "id": "02cfc824",
    "metadata": {
     "id": "tU7UCTWyGuV-",
     "papermill": {
-     "duration": 0.011486,
-     "end_time": "2026-06-04T17:16:30.524975+00:00",
+     "duration": 0.00948,
+     "end_time": "2026-06-04T19:22:18.532914+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.513489+00:00",
+     "start_time": "2026-06-04T19:22:18.523434+00:00",
      "status": "completed"
     },
     "tags": []
@@ -605,20 +605,20 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "81606841",
+   "id": "d064493b",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:16:30.550022Z",
-     "iopub.status.busy": "2026-06-04T17:16:30.549532Z",
-     "iopub.status.idle": "2026-06-04T17:16:30.555551Z",
-     "shell.execute_reply": "2026-06-04T17:16:30.554679Z"
+     "iopub.execute_input": "2026-06-04T19:22:18.551889Z",
+     "iopub.status.busy": "2026-06-04T19:22:18.551696Z",
+     "iopub.status.idle": "2026-06-04T19:22:18.555816Z",
+     "shell.execute_reply": "2026-06-04T19:22:18.555286Z"
     },
     "id": "601QlSkMGyNR",
     "papermill": {
-     "duration": 0.020981,
-     "end_time": "2026-06-04T17:16:30.557620+00:00",
+     "duration": 0.015253,
+     "end_time": "2026-06-04T19:22:18.557117+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.536639+00:00",
+     "start_time": "2026-06-04T19:22:18.541864+00:00",
      "status": "completed"
     },
     "tags": []
@@ -643,14 +643,14 @@
   },
   {
    "cell_type": "markdown",
-   "id": "a7a6d8e9",
+   "id": "cf616849",
    "metadata": {
     "id": "zSXvB78FG45e",
     "papermill": {
-     "duration": 0.013161,
-     "end_time": "2026-06-04T17:16:30.583790+00:00",
+     "duration": 0.009269,
+     "end_time": "2026-06-04T19:22:18.575523+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.570629+00:00",
+     "start_time": "2026-06-04T19:22:18.566254+00:00",
      "status": "completed"
     },
     "tags": []
@@ -662,19 +662,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "e53b1000",
+   "id": "3000a5d1",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:16:30.611110Z",
-     "iopub.status.busy": "2026-06-04T17:16:30.610614Z",
-     "iopub.status.idle": "2026-06-04T17:16:30.615461Z",
-     "shell.execute_reply": "2026-06-04T17:16:30.614662Z"
+     "iopub.execute_input": "2026-06-04T19:22:18.594911Z",
+     "iopub.status.busy": "2026-06-04T19:22:18.594714Z",
+     "iopub.status.idle": "2026-06-04T19:22:18.598301Z",
+     "shell.execute_reply": "2026-06-04T19:22:18.597709Z"
     },
     "papermill": {
-     "duration": 0.020577,
-     "end_time": "2026-06-04T17:16:30.617166+00:00",
+     "duration": 0.015192,
+     "end_time": "2026-06-04T19:22:18.599679+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.596589+00:00",
+     "start_time": "2026-06-04T19:22:18.584487+00:00",
      "status": "completed"
     },
     "tags": []
@@ -691,20 +691,20 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "2c6fc091",
+   "id": "28556e49",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:16:30.642577Z",
-     "iopub.status.busy": "2026-06-04T17:16:30.642045Z",
-     "iopub.status.idle": "2026-06-04T17:16:30.650280Z",
-     "shell.execute_reply": "2026-06-04T17:16:30.649418Z"
+     "iopub.execute_input": "2026-06-04T19:22:18.618997Z",
+     "iopub.status.busy": "2026-06-04T19:22:18.618797Z",
+     "iopub.status.idle": "2026-06-04T19:22:18.624708Z",
+     "shell.execute_reply": "2026-06-04T19:22:18.624141Z"
     },
     "id": "rz3nXJi-G9UL",
     "papermill": {
-     "duration": 0.023434,
-     "end_time": "2026-06-04T17:16:30.652283+00:00",
+     "duration": 0.017189,
+     "end_time": "2026-06-04T19:22:18.625960+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.628849+00:00",
+     "start_time": "2026-06-04T19:22:18.608771+00:00",
      "status": "completed"
     },
     "tags": []
@@ -751,20 +751,20 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "09a03b64",
+   "id": "bc6b95fe",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:16:30.676738Z",
-     "iopub.status.busy": "2026-06-04T17:16:30.676406Z",
-     "iopub.status.idle": "2026-06-04T17:16:30.685159Z",
-     "shell.execute_reply": "2026-06-04T17:16:30.684236Z"
+     "iopub.execute_input": "2026-06-04T19:22:18.645002Z",
+     "iopub.status.busy": "2026-06-04T19:22:18.644803Z",
+     "iopub.status.idle": "2026-06-04T19:22:18.651360Z",
+     "shell.execute_reply": "2026-06-04T19:22:18.650622Z"
     },
     "id": "NJvR2c-AWvUz",
     "papermill": {
-     "duration": 0.02324,
-     "end_time": "2026-06-04T17:16:30.687019+00:00",
+     "duration": 0.017939,
+     "end_time": "2026-06-04T19:22:18.652783+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.663779+00:00",
+     "start_time": "2026-06-04T19:22:18.634844+00:00",
      "status": "completed"
     },
     "tags": []
@@ -825,19 +825,19 @@
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "ade3938e",
+   "id": "4f29910e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:16:30.711698Z",
-     "iopub.status.busy": "2026-06-04T17:16:30.711085Z",
-     "iopub.status.idle": "2026-06-04T17:16:30.716740Z",
-     "shell.execute_reply": "2026-06-04T17:16:30.715816Z"
+     "iopub.execute_input": "2026-06-04T19:22:18.673974Z",
+     "iopub.status.busy": "2026-06-04T19:22:18.673770Z",
+     "iopub.status.idle": "2026-06-04T19:22:18.678040Z",
+     "shell.execute_reply": "2026-06-04T19:22:18.677297Z"
     },
     "papermill": {
-     "duration": 0.020258,
-     "end_time": "2026-06-04T17:16:30.718600+00:00",
+     "duration": 0.017352,
+     "end_time": "2026-06-04T19:22:18.679451+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.698342+00:00",
+     "start_time": "2026-06-04T19:22:18.662099+00:00",
      "status": "completed"
     },
     "tags": []
@@ -858,13 +858,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "b1314914",
+   "id": "c8bcd000",
    "metadata": {
     "papermill": {
-     "duration": 0.011874,
-     "end_time": "2026-06-04T17:16:30.741815+00:00",
+     "duration": 0.008994,
+     "end_time": "2026-06-04T19:22:18.697351+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.729941+00:00",
+     "start_time": "2026-06-04T19:22:18.688357+00:00",
      "status": "completed"
     },
     "tags": []
@@ -876,19 +876,19 @@
   {
    "cell_type": "code",
    "execution_count": 14,
-   "id": "934df4d0",
+   "id": "ec693d46",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:16:30.767145Z",
-     "iopub.status.busy": "2026-06-04T17:16:30.766287Z",
-     "iopub.status.idle": "2026-06-04T17:16:30.773170Z",
-     "shell.execute_reply": "2026-06-04T17:16:30.772300Z"
+     "iopub.execute_input": "2026-06-04T19:22:18.716376Z",
+     "iopub.status.busy": "2026-06-04T19:22:18.715933Z",
+     "iopub.status.idle": "2026-06-04T19:22:18.721207Z",
+     "shell.execute_reply": "2026-06-04T19:22:18.720474Z"
     },
     "papermill": {
-     "duration": 0.021874,
-     "end_time": "2026-06-04T17:16:30.775000+00:00",
+     "duration": 0.016411,
+     "end_time": "2026-06-04T19:22:18.722724+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.753126+00:00",
+     "start_time": "2026-06-04T19:22:18.706313+00:00",
      "status": "completed"
     },
     "tags": []
@@ -921,19 +921,19 @@
   {
    "cell_type": "code",
    "execution_count": 15,
-   "id": "45d0e3ea",
+   "id": "46ea9887",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:16:30.800280Z",
-     "iopub.status.busy": "2026-06-04T17:16:30.799529Z",
-     "iopub.status.idle": "2026-06-04T17:16:30.806854Z",
-     "shell.execute_reply": "2026-06-04T17:16:30.805908Z"
+     "iopub.execute_input": "2026-06-04T19:22:18.741615Z",
+     "iopub.status.busy": "2026-06-04T19:22:18.741422Z",
+     "iopub.status.idle": "2026-06-04T19:22:18.747665Z",
+     "shell.execute_reply": "2026-06-04T19:22:18.746859Z"
     },
     "papermill": {
-     "duration": 0.02221,
-     "end_time": "2026-06-04T17:16:30.808840+00:00",
+     "duration": 0.017408,
+     "end_time": "2026-06-04T19:22:18.749055+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.786630+00:00",
+     "start_time": "2026-06-04T19:22:18.731647+00:00",
      "status": "completed"
     },
     "tags": []
@@ -964,18 +964,27 @@
     "        if p.dim() > 1:\n",
     "            nn.init.xavier_uniform_(p)\n",
     "            \n",
-    "    return model"
+    "    return model\n",
+    "\n",
+    "def freeze_module(module):\n",
+    "    for p in module.parameters():\n",
+    "        p.requires_grad = False\n",
+    "\n",
+    "\n",
+    "def unfreeze_module(module):\n",
+    "    for p in module.parameters():\n",
+    "        p.requires_grad = True"
    ]
   },
   {
    "cell_type": "markdown",
-   "id": "a3cafe4f",
+   "id": "674fb57c",
    "metadata": {
     "papermill": {
-     "duration": 0.011826,
-     "end_time": "2026-06-04T17:16:30.831890+00:00",
+     "duration": 0.00915,
+     "end_time": "2026-06-04T19:22:18.767060+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.820064+00:00",
+     "start_time": "2026-06-04T19:22:18.757910+00:00",
      "status": "completed"
     },
     "tags": []
@@ -987,19 +996,19 @@
   {
    "cell_type": "code",
    "execution_count": 16,
-   "id": "761c6ddf",
+   "id": "6762606d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:16:30.856791Z",
-     "iopub.status.busy": "2026-06-04T17:16:30.855906Z",
-     "iopub.status.idle": "2026-06-04T17:16:32.687309Z",
-     "shell.execute_reply": "2026-06-04T17:16:32.686081Z"
+     "iopub.execute_input": "2026-06-04T19:22:18.786518Z",
+     "iopub.status.busy": "2026-06-04T19:22:18.785855Z",
+     "iopub.status.idle": "2026-06-04T19:22:21.254628Z",
+     "shell.execute_reply": "2026-06-04T19:22:21.253738Z"
     },
     "papermill": {
-     "duration": 1.846193,
-     "end_time": "2026-06-04T17:16:32.689350+00:00",
+     "duration": 2.480032,
+     "end_time": "2026-06-04T19:22:21.256152+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:30.843157+00:00",
+     "start_time": "2026-06-04T19:22:18.776120+00:00",
      "status": "completed"
     },
     "tags": []
@@ -1055,19 +1064,19 @@
   {
    "cell_type": "code",
    "execution_count": 17,
-   "id": "380540ad",
+   "id": "9a3b0392",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:16:32.715079Z",
-     "iopub.status.busy": "2026-06-04T17:16:32.714180Z",
-     "iopub.status.idle": "2026-06-04T17:16:42.805891Z",
-     "shell.execute_reply": "2026-06-04T17:16:42.804745Z"
+     "iopub.execute_input": "2026-06-04T19:22:21.277107Z",
+     "iopub.status.busy": "2026-06-04T19:22:21.276777Z",
+     "iopub.status.idle": "2026-06-04T19:22:30.655972Z",
+     "shell.execute_reply": "2026-06-04T19:22:30.654749Z"
     },
     "papermill": {
-     "duration": 10.106943,
-     "end_time": "2026-06-04T17:16:42.808200+00:00",
+     "duration": 9.391371,
+     "end_time": "2026-06-04T19:22:30.657804+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:32.701257+00:00",
+     "start_time": "2026-06-04T19:22:21.266433+00:00",
      "status": "completed"
     },
     "tags": []
@@ -1166,13 +1175,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "1b930d5b",
+   "id": "a33d8d27",
    "metadata": {
     "papermill": {
-     "duration": 0.017836,
-     "end_time": "2026-06-04T17:16:42.839688+00:00",
+     "duration": 0.009489,
+     "end_time": "2026-06-04T19:22:30.677280+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:42.821852+00:00",
+     "start_time": "2026-06-04T19:22:30.667791+00:00",
      "status": "completed"
     },
     "tags": []
@@ -1184,19 +1193,19 @@
   {
    "cell_type": "code",
    "execution_count": 18,
-   "id": "e508208a",
+   "id": "72850377",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:16:42.865516Z",
-     "iopub.status.busy": "2026-06-04T17:16:42.865030Z",
-     "iopub.status.idle": "2026-06-04T17:16:42.869497Z",
-     "shell.execute_reply": "2026-06-04T17:16:42.868602Z"
+     "iopub.execute_input": "2026-06-04T19:22:30.698107Z",
+     "iopub.status.busy": "2026-06-04T19:22:30.697824Z",
+     "iopub.status.idle": "2026-06-04T19:22:30.702520Z",
+     "shell.execute_reply": "2026-06-04T19:22:30.701738Z"
     },
     "papermill": {
-     "duration": 0.019424,
-     "end_time": "2026-06-04T17:16:42.871464+00:00",
+     "duration": 0.017259,
+     "end_time": "2026-06-04T19:22:30.704006+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:42.852040+00:00",
+     "start_time": "2026-06-04T19:22:30.686747+00:00",
      "status": "completed"
     },
     "tags": []
@@ -1221,19 +1230,19 @@
   {
    "cell_type": "code",
    "execution_count": 19,
-   "id": "85ea1662",
+   "id": "62bbaed8",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:16:42.896789Z",
-     "iopub.status.busy": "2026-06-04T17:16:42.896255Z",
-     "iopub.status.idle": "2026-06-04T17:16:42.932723Z",
-     "shell.execute_reply": "2026-06-04T17:16:42.931897Z"
+     "iopub.execute_input": "2026-06-04T19:22:30.723753Z",
+     "iopub.status.busy": "2026-06-04T19:22:30.723549Z",
+     "iopub.status.idle": "2026-06-04T19:22:30.765110Z",
+     "shell.execute_reply": "2026-06-04T19:22:30.764536Z"
     },
     "papermill": {
-     "duration": 0.051456,
-     "end_time": "2026-06-04T17:16:42.934850+00:00",
+     "duration": 0.053141,
+     "end_time": "2026-06-04T19:22:30.766718+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:42.883394+00:00",
+     "start_time": "2026-06-04T19:22:30.713577+00:00",
      "status": "completed"
     },
     "tags": []
@@ -1292,19 +1301,19 @@
   {
    "cell_type": "code",
    "execution_count": 20,
-   "id": "93b2f79b",
+   "id": "d22283c7",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:16:42.961181Z",
-     "iopub.status.busy": "2026-06-04T17:16:42.960693Z",
-     "iopub.status.idle": "2026-06-04T17:16:43.004331Z",
-     "shell.execute_reply": "2026-06-04T17:16:43.003117Z"
+     "iopub.execute_input": "2026-06-04T19:22:30.788472Z",
+     "iopub.status.busy": "2026-06-04T19:22:30.788168Z",
+     "iopub.status.idle": "2026-06-04T19:22:30.833594Z",
+     "shell.execute_reply": "2026-06-04T19:22:30.832797Z"
     },
     "papermill": {
-     "duration": 0.059486,
-     "end_time": "2026-06-04T17:16:43.006970+00:00",
+     "duration": 0.057586,
+     "end_time": "2026-06-04T19:22:30.835156+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:42.947484+00:00",
+     "start_time": "2026-06-04T19:22:30.777570+00:00",
      "status": "completed"
     },
     "tags": []
@@ -1336,19 +1345,19 @@
   {
    "cell_type": "code",
    "execution_count": 21,
-   "id": "3dd3688d",
+   "id": "ad1876fc",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:16:43.032505Z",
-     "iopub.status.busy": "2026-06-04T17:16:43.032028Z",
-     "iopub.status.idle": "2026-06-04T17:17:06.659817Z",
-     "shell.execute_reply": "2026-06-04T17:17:06.658888Z"
+     "iopub.execute_input": "2026-06-04T19:22:30.855880Z",
+     "iopub.status.busy": "2026-06-04T19:22:30.855506Z",
+     "iopub.status.idle": "2026-06-04T19:22:48.184321Z",
+     "shell.execute_reply": "2026-06-04T19:22:48.183541Z"
     },
     "papermill": {
-     "duration": 23.642724,
-     "end_time": "2026-06-04T17:17:06.661727+00:00",
+     "duration": 17.341111,
+     "end_time": "2026-06-04T19:22:48.185936+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:16:43.019003+00:00",
+     "start_time": "2026-06-04T19:22:30.844825+00:00",
      "status": "completed"
     },
     "tags": []
@@ -1358,8 +1367,8 @@
      "name": "stderr",
      "output_type": "stream",
      "text": [
-      "100%|██████████| 10775/10775 [00:18<00:00, 580.87it/s]\n",
-      "100%|██████████| 10775/10775 [00:04<00:00, 2503.48it/s]\n"
+      "100%|██████████| 10775/10775 [00:13<00:00, 792.13it/s]\n",
+      "100%|██████████| 10775/10775 [00:02<00:00, 3592.00it/s]\n"
      ]
     },
     {
@@ -1471,19 +1480,19 @@
   {
    "cell_type": "code",
    "execution_count": 22,
-   "id": "37f61bdc",
+   "id": "7205f0df",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:17:06.712409Z",
-     "iopub.status.busy": "2026-06-04T17:17:06.711343Z",
-     "iopub.status.idle": "2026-06-04T17:17:06.721060Z",
-     "shell.execute_reply": "2026-06-04T17:17:06.720236Z"
+     "iopub.execute_input": "2026-06-04T19:22:48.220272Z",
+     "iopub.status.busy": "2026-06-04T19:22:48.219750Z",
+     "iopub.status.idle": "2026-06-04T19:22:48.226650Z",
+     "shell.execute_reply": "2026-06-04T19:22:48.225976Z"
     },
     "papermill": {
-     "duration": 0.037072,
-     "end_time": "2026-06-04T17:17:06.722876+00:00",
+     "duration": 0.025013,
+     "end_time": "2026-06-04T19:22:48.227971+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:17:06.685804+00:00",
+     "start_time": "2026-06-04T19:22:48.202958+00:00",
      "status": "completed"
     },
     "tags": []
@@ -1563,30 +1572,32 @@
   {
    "cell_type": "code",
    "execution_count": 23,
-   "id": "31d2e334",
+   "id": "0967d3d0",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:17:06.769644Z",
-     "iopub.status.busy": "2026-06-04T17:17:06.768829Z",
-     "iopub.status.idle": "2026-06-04T17:17:06.787608Z",
-     "shell.execute_reply": "2026-06-04T17:17:06.786798Z"
+     "iopub.execute_input": "2026-06-04T19:22:48.260200Z",
+     "iopub.status.busy": "2026-06-04T19:22:48.259994Z",
+     "iopub.status.idle": "2026-06-04T19:22:48.275781Z",
+     "shell.execute_reply": "2026-06-04T19:22:48.275304Z"
     },
     "papermill": {
-     "duration": 0.044388,
-     "end_time": "2026-06-04T17:17:06.789801+00:00",
+     "duration": 0.033919,
+     "end_time": "2026-06-04T19:22:48.277117+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:17:06.745413+00:00",
+     "start_time": "2026-06-04T19:22:48.243198+00:00",
      "status": "completed"
     },
     "tags": []
    },
    "outputs": [],
    "source": [
-    "BATCH_SIZE = 80\n",
+    "BATCH_SIZE = 5\n",
     "\n",
     "train_dataset = SummaryDataset(\n",
     "    train_df,\n",
     "    tokenizer,\n",
+    "    max_src_len=1000,\n",
+    "    max_tgt_len=200,\n",
     ")\n",
     "\n",
     "train_loader = DataLoader(\n",
@@ -1639,13 +1650,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "cf590dd2",
+   "id": "0463d117",
    "metadata": {
     "papermill": {
-     "duration": 0.021366,
-     "end_time": "2026-06-04T17:17:06.832984+00:00",
+     "duration": 0.015057,
+     "end_time": "2026-06-04T19:22:48.308390+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:17:06.811618+00:00",
+     "start_time": "2026-06-04T19:22:48.293333+00:00",
      "status": "completed"
     },
     "tags": []
@@ -1657,19 +1668,19 @@
   {
    "cell_type": "code",
    "execution_count": 24,
-   "id": "e3ff5f0f",
+   "id": "a3dd3a75",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:17:06.878214Z",
-     "iopub.status.busy": "2026-06-04T17:17:06.877390Z",
-     "iopub.status.idle": "2026-06-04T17:17:06.888059Z",
-     "shell.execute_reply": "2026-06-04T17:17:06.887198Z"
+     "iopub.execute_input": "2026-06-04T19:22:48.340114Z",
+     "iopub.status.busy": "2026-06-04T19:22:48.339913Z",
+     "iopub.status.idle": "2026-06-04T19:22:48.347779Z",
+     "shell.execute_reply": "2026-06-04T19:22:48.347192Z"
     },
     "papermill": {
-     "duration": 0.035195,
-     "end_time": "2026-06-04T17:17:06.889674+00:00",
+     "duration": 0.0255,
+     "end_time": "2026-06-04T19:22:48.349094+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:17:06.854479+00:00",
+     "start_time": "2026-06-04T19:22:48.323594+00:00",
      "status": "completed"
     },
     "tags": []
@@ -1736,13 +1747,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "ff15727c",
+   "id": "98d58fad",
    "metadata": {
     "papermill": {
-     "duration": 0.025757,
-     "end_time": "2026-06-04T17:17:06.938691+00:00",
+     "duration": 0.016179,
+     "end_time": "2026-06-04T19:22:48.381016+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:17:06.912934+00:00",
+     "start_time": "2026-06-04T19:22:48.364837+00:00",
      "status": "completed"
     },
     "tags": []
@@ -1754,19 +1765,19 @@
   {
    "cell_type": "code",
    "execution_count": 25,
-   "id": "833fd378",
+   "id": "43cea03a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:17:06.983861Z",
-     "iopub.status.busy": "2026-06-04T17:17:06.983445Z",
-     "iopub.status.idle": "2026-06-04T17:17:06.992621Z",
-     "shell.execute_reply": "2026-06-04T17:17:06.991914Z"
+     "iopub.execute_input": "2026-06-04T19:22:48.413312Z",
+     "iopub.status.busy": "2026-06-04T19:22:48.413055Z",
+     "iopub.status.idle": "2026-06-04T19:22:48.419229Z",
+     "shell.execute_reply": "2026-06-04T19:22:48.418581Z"
     },
     "papermill": {
-     "duration": 0.033975,
-     "end_time": "2026-06-04T17:17:06.994411+00:00",
+     "duration": 0.024219,
+     "end_time": "2026-06-04T19:22:48.420718+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:17:06.960436+00:00",
+     "start_time": "2026-06-04T19:22:48.396499+00:00",
      "status": "completed"
     },
     "tags": []
@@ -1777,7 +1788,7 @@
     "import torch\n",
     "import random\n",
     "\n",
-    "def get_noise_prob(current_epoch, warmup_epochs=3, max_noise=0.2):\n",
+    "def get_noise_prob(current_epoch, warmup_epochs=3, max_noise=0.1):\n",
     "    \"\"\"\n",
     "    Hàm tính toán tỷ lệ làm nhiễu (Tăng dần từ từ sau 5 epoch đầu tiên)\n",
     "    \"\"\"\n",
@@ -1823,19 +1834,19 @@
   {
    "cell_type": "code",
    "execution_count": 26,
-   "id": "e9145699",
+   "id": "9dd1efbf",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:17:07.041134Z",
-     "iopub.status.busy": "2026-06-04T17:17:07.040399Z",
-     "iopub.status.idle": "2026-06-04T17:17:07.050456Z",
-     "shell.execute_reply": "2026-06-04T17:17:07.049599Z"
+     "iopub.execute_input": "2026-06-04T19:22:48.453333Z",
+     "iopub.status.busy": "2026-06-04T19:22:48.452923Z",
+     "iopub.status.idle": "2026-06-04T19:22:48.460287Z",
+     "shell.execute_reply": "2026-06-04T19:22:48.459730Z"
     },
     "papermill": {
-     "duration": 0.036082,
-     "end_time": "2026-06-04T17:17:07.052283+00:00",
+     "duration": 0.025005,
+     "end_time": "2026-06-04T19:22:48.461569+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:17:07.016201+00:00",
+     "start_time": "2026-06-04T19:22:48.436564+00:00",
      "status": "completed"
     },
     "tags": []
@@ -1915,19 +1926,19 @@
   {
    "cell_type": "code",
    "execution_count": 27,
-   "id": "12d35fb4",
+   "id": "2d04ec4e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:17:07.101195Z",
-     "iopub.status.busy": "2026-06-04T17:17:07.100821Z",
-     "iopub.status.idle": "2026-06-04T17:17:07.106296Z",
-     "shell.execute_reply": "2026-06-04T17:17:07.105348Z"
+     "iopub.execute_input": "2026-06-04T19:22:48.493585Z",
+     "iopub.status.busy": "2026-06-04T19:22:48.493232Z",
+     "iopub.status.idle": "2026-06-04T19:22:48.744135Z",
+     "shell.execute_reply": "2026-06-04T19:22:48.743315Z"
     },
     "papermill": {
-     "duration": 0.033803,
-     "end_time": "2026-06-04T17:17:07.108073+00:00",
+     "duration": 0.268627,
+     "end_time": "2026-06-04T19:22:48.745551+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:17:07.074270+00:00",
+     "start_time": "2026-06-04T19:22:48.476924+00:00",
      "status": "completed"
     },
     "tags": []
@@ -1937,7 +1948,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "Mô hình đang chạy trên: cpu\n"
+      "Mô hình đang chạy trên: cuda\n"
      ]
     }
    ],
@@ -1949,41 +1960,33 @@
   {
    "cell_type": "code",
    "execution_count": 28,
-   "id": "138bac17",
+   "id": "39c03be6",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:17:07.154411Z",
-     "iopub.status.busy": "2026-06-04T17:17:07.153882Z",
-     "iopub.status.idle": "2026-06-04T17:18:03.147982Z",
-     "shell.execute_reply": "2026-06-04T17:18:03.146887Z"
+     "iopub.execute_input": "2026-06-04T19:22:48.780930Z",
+     "iopub.status.busy": "2026-06-04T19:22:48.780569Z",
+     "iopub.status.idle": "2026-06-04T19:22:50.416490Z",
+     "shell.execute_reply": "2026-06-04T19:22:50.415399Z"
     },
     "papermill": {
-     "duration": 56.019988,
-     "end_time": "2026-06-04T17:18:03.150126+00:00",
+     "duration": 1.654652,
+     "end_time": "2026-06-04T19:22:50.418049+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:17:07.130138+00:00",
+     "start_time": "2026-06-04T19:22:48.763397+00:00",
      "status": "completed"
     },
     "tags": []
    },
    "outputs": [
     {
-     "name": "stderr",
-     "output_type": "stream",
-     "text": [
-      "/usr/local/lib/python3.12/dist-packages/torch/utils/data/dataloader.py:775: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.\n",
-      "  super().__init__(loader)\n"
-     ]
-    },
-    {
      "name": "stdout",
      "output_type": "stream",
      "text": [
       "\n",
-      "Kích thước Batch Source: torch.Size([80, 1280])\n",
-      "Kích thước Batch Target (Decoder Input): torch.Size([80, 82])\n",
-      "Kích thước Output từ Decoder: torch.Size([80, 82, 320])\n",
-      "Kích thước Xác suất cuối cùng: torch.Size([80, 82, 20000])\n"
+      "Kích thước Batch Source: torch.Size([5, 1280])\n",
+      "Kích thước Batch Target (Decoder Input): torch.Size([5, 68])\n",
+      "Kích thước Output từ Decoder: torch.Size([5, 68, 320])\n",
+      "Kích thước Xác suất cuối cùng: torch.Size([5, 68, 20000])\n"
      ]
     }
    ],
@@ -2054,19 +2057,19 @@
   {
    "cell_type": "code",
    "execution_count": 29,
-   "id": "310afe35",
+   "id": "776e8a9d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:18:03.198017Z",
-     "iopub.status.busy": "2026-06-04T17:18:03.197040Z",
-     "iopub.status.idle": "2026-06-04T17:18:03.205341Z",
-     "shell.execute_reply": "2026-06-04T17:18:03.204097Z"
+     "iopub.execute_input": "2026-06-04T19:22:50.451576Z",
+     "iopub.status.busy": "2026-06-04T19:22:50.451348Z",
+     "iopub.status.idle": "2026-06-04T19:22:50.457152Z",
+     "shell.execute_reply": "2026-06-04T19:22:50.456388Z"
     },
     "papermill": {
-     "duration": 0.035343,
-     "end_time": "2026-06-04T17:18:03.207367+00:00",
+     "duration": 0.023686,
+     "end_time": "2026-06-04T19:22:50.458540+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:18:03.172024+00:00",
+     "start_time": "2026-06-04T19:22:50.434854+00:00",
      "status": "completed"
     },
     "tags": []
@@ -2103,13 +2106,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "8744bcf1",
+   "id": "fa54671e",
    "metadata": {
     "papermill": {
-     "duration": 0.02239,
-     "end_time": "2026-06-04T17:18:03.253325+00:00",
+     "duration": 0.015755,
+     "end_time": "2026-06-04T19:22:50.489849+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:18:03.230935+00:00",
+     "start_time": "2026-06-04T19:22:50.474094+00:00",
      "status": "completed"
     },
     "tags": []
@@ -2121,32 +2124,27 @@
   {
    "cell_type": "code",
    "execution_count": 30,
-   "id": "6d206806",
+   "id": "8b601ca7",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:18:03.301797Z",
-     "iopub.status.busy": "2026-06-04T17:18:03.301161Z",
-     "iopub.status.idle": "2026-06-04T17:18:10.435735Z",
-     "shell.execute_reply": "2026-06-04T17:18:10.434683Z"
+     "iopub.execute_input": "2026-06-04T19:22:50.523169Z",
+     "iopub.status.busy": "2026-06-04T19:22:50.522956Z",
+     "iopub.status.idle": "2026-06-04T19:22:59.257553Z",
+     "shell.execute_reply": "2026-06-04T19:22:59.256906Z"
     },
     "papermill": {
-     "duration": 7.162777,
-     "end_time": "2026-06-04T17:18:10.438163+00:00",
+     "duration": 8.753996,
+     "end_time": "2026-06-04T19:22:59.259336+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:18:03.275386+00:00",
+     "start_time": "2026-06-04T19:22:50.505340+00:00",
      "status": "completed"
     },
     "tags": []
    },
    "outputs": [],
    "source": [
-    "# Cấu hình siêu tham số\n",
     "EPOCHS = 30\n",
-    "FINETUNE = 10\n",
-    "# D_MODEL = 256 # Hoặc 512 nếu máy bạn mạnh (RAM/VRAM lớn)\n",
-    "\n",
     "TRAIN = False\n",
-    "TUNE = True\n",
     "\n",
     "# Khởi tạo hàm Loss với padding_idx = 0 (<pad>)\n",
     "criterion = LabelSmoothing(size=VOCAB_SIZE, padding_idx=0, smoothing=0.1)\n",
@@ -2167,22 +2165,6 @@
     "    factor=1.0, \n",
     "    warmup=4000, \n",
     "    optimizer=base_optimizer\n",
-    ")\n",
-    "\n",
-    "ft_base_optimizer = torch.optim.AdamW(\n",
-    "    model.parameters(), \n",
-    "    lr=0, # Learning rate ban đầu được kiểm soát bởi NoamOpt\n",
-    "    betas=(0.9, 0.98), \n",
-    "    eps=1e-9,\n",
-    "    weight_decay=1e-4 # BỔ SUNG: Phạt trọng số (Weight Decay)\n",
-    ")\n",
-    "\n",
-    "# Bọc bằng NoamOpt\n",
-    "ft_optimizer = NoamOpt(\n",
-    "    model_size=D_MODEL, \n",
-    "    factor=1.0, \n",
-    "    warmup=1000, \n",
-    "    optimizer=ft_base_optimizer\n",
     ")\n",
     "\n",
     "# 2. Vòng lặp huấn luyện chính\n",
@@ -2207,42 +2189,637 @@
     "else:\n",
     "    checkpoint_path = '/kaggle/input/datasets/minhfli/uetnlp-small-bpe-transformer/transformer_epoch_18.pth'\n",
     "    model.load_state_dict(torch.load(checkpoint_path, map_location=device))\n",
-    "    model.to(device)\n",
+    "    model.to(device)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 31,
+   "id": "b4267dda",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2026-06-04T19:22:59.293721Z",
+     "iopub.status.busy": "2026-06-04T19:22:59.292972Z",
+     "iopub.status.idle": "2026-06-04T20:31:51.012699Z",
+     "shell.execute_reply": "2026-06-04T20:31:51.012043Z"
+    },
+    "papermill": {
+     "duration": 4131.738386,
+     "end_time": "2026-06-04T20:31:51.014480+00:00",
+     "exception": false,
+     "start_time": "2026-06-04T19:22:59.276094+00:00",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Freeze encoder...\n",
+      "Trainable params : 20,219,040\n",
+      "Total params     : 32,372,000\n",
+      "Trainable ratio  : 62.46%\n",
+      "Bắt đầu finetune trên bộ dữ liệu summary\n",
+      "Epoch: 1 | Step: 100 | Train Loss: 4.0440 | Tokens/sec: 6769 | LR: 0.000045\n",
+      "Epoch: 1 | Step: 200 | Train Loss: 3.7624 | Tokens/sec: 7116 | LR: 0.000089\n",
+      "Epoch: 1 | Step: 300 | Train Loss: 3.6781 | Tokens/sec: 7036 | LR: 0.000133\n",
+      "Epoch: 1 | Step: 400 | Train Loss: 3.5552 | Tokens/sec: 6958 | LR: 0.000177\n",
+      "src=torch.Size([5, 933]), tgt=torch.Size([5, 155]), allocated=0.80GB\n",
+      "Epoch: 1 | Step: 500 | Train Loss: 3.4265 | Tokens/sec: 6913 | LR: 0.000221\n",
+      "Epoch: 1 | Step: 600 | Train Loss: 3.4096 | Tokens/sec: 6944 | LR: 0.000266\n",
+      "Epoch: 1 | Step: 700 | Train Loss: 3.3243 | Tokens/sec: 6892 | LR: 0.000310\n",
+      "Epoch: 1 | Step: 800 | Train Loss: 3.3411 | Tokens/sec: 6774 | LR: 0.000354\n",
+      "Epoch: 1 | Step: 900 | Train Loss: 3.2664 | Tokens/sec: 6697 | LR: 0.000398\n",
+      "src=torch.Size([5, 911]), tgt=torch.Size([5, 155]), allocated=0.74GB\n",
+      "Epoch: 1 | Step: 1000 | Train Loss: 3.2349 | Tokens/sec: 6610 | LR: 0.000442\n",
+      "Epoch: 1 | Step: 1100 | Train Loss: 3.1931 | Tokens/sec: 6583 | LR: 0.000421\n",
+      "Epoch: 1 | Step: 1200 | Train Loss: 3.2164 | Tokens/sec: 6549 | LR: 0.000403\n",
+      "Epoch: 1 | Step: 1300 | Train Loss: 3.1817 | Tokens/sec: 6504 | LR: 0.000387\n",
+      "Epoch: 1 | Step: 1400 | Train Loss: 3.2042 | Tokens/sec: 6491 | LR: 0.000373\n",
+      "src=torch.Size([5, 832]), tgt=torch.Size([5, 199]), allocated=0.69GB\n",
+      "Epoch: 1 | Step: 1500 | Train Loss: 3.1201 | Tokens/sec: 6695 | LR: 0.000361\n",
+      "Epoch: 1 | Step: 1600 | Train Loss: 3.0921 | Tokens/sec: 6547 | LR: 0.000349\n",
+      "Epoch: 1 | Step: 1700 | Train Loss: 3.1182 | Tokens/sec: 6492 | LR: 0.000339\n",
+      "Epoch: 1 | Step: 1800 | Train Loss: 3.1004 | Tokens/sec: 6555 | LR: 0.000329\n",
+      "Epoch: 1 | Step: 1900 | Train Loss: 3.0797 | Tokens/sec: 6616 | LR: 0.000321\n",
+      "src=torch.Size([5, 794]), tgt=torch.Size([5, 172]), allocated=0.66GB\n",
+      "Epoch: 1 | Step: 2000 | Train Loss: 3.0537 | Tokens/sec: 6632 | LR: 0.000312\n",
+      "Epoch: 1 | Step: 2100 | Train Loss: 3.0658 | Tokens/sec: 6499 | LR: 0.000305\n",
+      "------------------------------------------------------------\n",
+      "[*] FINETUNE EPOCH 1\n",
+      "Train Loss : 3.3031\n",
+      "Valid Loss : 2.8882\n",
+      "------------------------------------------------------------\n",
+      "Saved best model (valid_loss=2.8882)\n",
+      "Epoch: 2 | Step: 100 | Train Loss: 2.9108 | Tokens/sec: 6666 | LR: 0.000294\n",
+      "Epoch: 2 | Step: 200 | Train Loss: 2.9028 | Tokens/sec: 6478 | LR: 0.000288\n",
+      "Epoch: 2 | Step: 300 | Train Loss: 2.8746 | Tokens/sec: 6604 | LR: 0.000282\n",
+      "Epoch: 2 | Step: 400 | Train Loss: 2.9089 | Tokens/sec: 6703 | LR: 0.000276\n",
+      "src=torch.Size([5, 817]), tgt=torch.Size([5, 177]), allocated=0.74GB\n",
+      "Epoch: 2 | Step: 500 | Train Loss: 2.9226 | Tokens/sec: 6627 | LR: 0.000271\n",
+      "Epoch: 2 | Step: 600 | Train Loss: 2.9160 | Tokens/sec: 6593 | LR: 0.000266\n",
+      "Epoch: 2 | Step: 700 | Train Loss: 2.9134 | Tokens/sec: 6605 | LR: 0.000262\n",
+      "Epoch: 2 | Step: 800 | Train Loss: 2.9235 | Tokens/sec: 6539 | LR: 0.000257\n",
+      "Epoch: 2 | Step: 900 | Train Loss: 2.8868 | Tokens/sec: 6513 | LR: 0.000253\n",
+      "src=torch.Size([5, 911]), tgt=torch.Size([5, 192]), allocated=0.81GB\n",
+      "Epoch: 2 | Step: 1000 | Train Loss: 2.9176 | Tokens/sec: 6496 | LR: 0.000249\n",
+      "Epoch: 2 | Step: 1100 | Train Loss: 2.8719 | Tokens/sec: 6509 | LR: 0.000245\n",
+      "Epoch: 2 | Step: 1200 | Train Loss: 2.8772 | Tokens/sec: 6586 | LR: 0.000241\n",
+      "Epoch: 2 | Step: 1300 | Train Loss: 2.8829 | Tokens/sec: 6593 | LR: 0.000238\n",
+      "Epoch: 2 | Step: 1400 | Train Loss: 2.8672 | Tokens/sec: 6560 | LR: 0.000234\n",
+      "src=torch.Size([5, 659]), tgt=torch.Size([5, 152]), allocated=0.77GB\n",
+      "Epoch: 2 | Step: 1500 | Train Loss: 2.9275 | Tokens/sec: 6584 | LR: 0.000231\n",
+      "Epoch: 2 | Step: 1600 | Train Loss: 2.8901 | Tokens/sec: 6653 | LR: 0.000228\n",
+      "Epoch: 2 | Step: 1700 | Train Loss: 2.8876 | Tokens/sec: 6578 | LR: 0.000225\n",
+      "Epoch: 2 | Step: 1800 | Train Loss: 2.8756 | Tokens/sec: 6575 | LR: 0.000222\n",
+      "Epoch: 2 | Step: 1900 | Train Loss: 2.9208 | Tokens/sec: 6524 | LR: 0.000219\n",
+      "src=torch.Size([5, 979]), tgt=torch.Size([5, 199]), allocated=0.65GB\n",
+      "Epoch: 2 | Step: 2000 | Train Loss: 2.8823 | Tokens/sec: 6532 | LR: 0.000217\n",
+      "Epoch: 2 | Step: 2100 | Train Loss: 2.8752 | Tokens/sec: 6486 | LR: 0.000214\n",
+      "------------------------------------------------------------\n",
+      "[*] FINETUNE EPOCH 2\n",
+      "Train Loss : 2.8962\n",
+      "Valid Loss : 2.7951\n",
+      "------------------------------------------------------------\n",
+      "Saved best model (valid_loss=2.7951)\n",
+      "Epoch: 3 | Step: 100 | Train Loss: 2.7263 | Tokens/sec: 6775 | LR: 0.000210\n",
+      "Epoch: 3 | Step: 200 | Train Loss: 2.7673 | Tokens/sec: 6521 | LR: 0.000208\n",
+      "Epoch: 3 | Step: 300 | Train Loss: 2.7416 | Tokens/sec: 6569 | LR: 0.000206\n",
+      "Epoch: 3 | Step: 400 | Train Loss: 2.7008 | Tokens/sec: 6475 | LR: 0.000204\n",
+      "src=torch.Size([5, 700]), tgt=torch.Size([5, 153]), allocated=0.63GB\n",
+      "Epoch: 3 | Step: 500 | Train Loss: 2.7716 | Tokens/sec: 6574 | LR: 0.000201\n",
+      "Epoch: 3 | Step: 600 | Train Loss: 2.7495 | Tokens/sec: 6588 | LR: 0.000199\n",
+      "Epoch: 3 | Step: 700 | Train Loss: 2.7634 | Tokens/sec: 6556 | LR: 0.000197\n",
+      "Epoch: 3 | Step: 800 | Train Loss: 2.7506 | Tokens/sec: 6519 | LR: 0.000195\n",
+      "Epoch: 3 | Step: 900 | Train Loss: 2.7750 | Tokens/sec: 6567 | LR: 0.000194\n",
+      "src=torch.Size([5, 851]), tgt=torch.Size([5, 178]), allocated=0.68GB\n",
+      "Epoch: 3 | Step: 1000 | Train Loss: 2.7879 | Tokens/sec: 6621 | LR: 0.000192\n",
+      "Epoch: 3 | Step: 1100 | Train Loss: 2.7678 | Tokens/sec: 6640 | LR: 0.000190\n",
+      "Epoch: 3 | Step: 1200 | Train Loss: 2.7954 | Tokens/sec: 6608 | LR: 0.000188\n",
+      "Epoch: 3 | Step: 1300 | Train Loss: 2.7387 | Tokens/sec: 6559 | LR: 0.000187\n",
+      "Epoch: 3 | Step: 1400 | Train Loss: 2.7519 | Tokens/sec: 6623 | LR: 0.000185\n",
+      "src=torch.Size([5, 858]), tgt=torch.Size([5, 163]), allocated=0.74GB\n",
+      "Epoch: 3 | Step: 1500 | Train Loss: 2.7978 | Tokens/sec: 6642 | LR: 0.000183\n",
+      "Epoch: 3 | Step: 1600 | Train Loss: 2.7547 | Tokens/sec: 6535 | LR: 0.000182\n",
+      "Epoch: 3 | Step: 1700 | Train Loss: 2.7339 | Tokens/sec: 6572 | LR: 0.000180\n",
+      "Epoch: 3 | Step: 1800 | Train Loss: 2.8090 | Tokens/sec: 6568 | LR: 0.000179\n",
+      "Epoch: 3 | Step: 1900 | Train Loss: 2.8025 | Tokens/sec: 6482 | LR: 0.000177\n",
+      "src=torch.Size([5, 715]), tgt=torch.Size([5, 186]), allocated=0.75GB\n",
+      "Epoch: 3 | Step: 2000 | Train Loss: 2.7555 | Tokens/sec: 6554 | LR: 0.000176\n",
+      "Epoch: 3 | Step: 2100 | Train Loss: 2.7412 | Tokens/sec: 6474 | LR: 0.000175\n",
+      "------------------------------------------------------------\n",
+      "[*] FINETUNE EPOCH 3\n",
+      "Train Loss : 2.7629\n",
+      "Valid Loss : 2.7551\n",
+      "------------------------------------------------------------\n",
+      "Saved best model (valid_loss=2.7551)\n",
+      "[*] Áp dụng Target Noising (Scheduled Sampling) với tỷ lệ: 0.02\n",
+      "Epoch: 4 | Step: 100 | Train Loss: 2.7542 | Tokens/sec: 5955 | LR: 0.000172\n",
+      "Epoch: 4 | Step: 200 | Train Loss: 2.7227 | Tokens/sec: 5956 | LR: 0.000171\n",
+      "Epoch: 4 | Step: 300 | Train Loss: 2.7567 | Tokens/sec: 6010 | LR: 0.000170\n",
+      "Epoch: 4 | Step: 400 | Train Loss: 2.7629 | Tokens/sec: 5836 | LR: 0.000169\n",
+      "src=torch.Size([5, 821]), tgt=torch.Size([5, 187]), allocated=0.81GB\n",
+      "Epoch: 4 | Step: 500 | Train Loss: 2.7301 | Tokens/sec: 5867 | LR: 0.000167\n",
+      "Epoch: 4 | Step: 600 | Train Loss: 2.7627 | Tokens/sec: 5978 | LR: 0.000166\n",
+      "Epoch: 4 | Step: 700 | Train Loss: 2.7592 | Tokens/sec: 5991 | LR: 0.000165\n",
+      "Epoch: 4 | Step: 800 | Train Loss: 2.7975 | Tokens/sec: 5906 | LR: 0.000164\n",
+      "Epoch: 4 | Step: 900 | Train Loss: 2.7585 | Tokens/sec: 5855 | LR: 0.000163\n",
+      "src=torch.Size([5, 884]), tgt=torch.Size([5, 168]), allocated=0.65GB\n",
+      "Epoch: 4 | Step: 1000 | Train Loss: 2.7734 | Tokens/sec: 5926 | LR: 0.000162\n",
+      "Epoch: 4 | Step: 1100 | Train Loss: 2.7482 | Tokens/sec: 5851 | LR: 0.000161\n",
+      "Epoch: 4 | Step: 1200 | Train Loss: 2.7343 | Tokens/sec: 5887 | LR: 0.000160\n",
+      "Epoch: 4 | Step: 1300 | Train Loss: 2.7827 | Tokens/sec: 5968 | LR: 0.000159\n",
+      "Epoch: 4 | Step: 1400 | Train Loss: 2.7457 | Tokens/sec: 5917 | LR: 0.000158\n",
+      "src=torch.Size([5, 678]), tgt=torch.Size([5, 173]), allocated=0.78GB\n",
+      "Epoch: 4 | Step: 1500 | Train Loss: 2.8045 | Tokens/sec: 6046 | LR: 0.000157\n",
+      "Epoch: 4 | Step: 1600 | Train Loss: 2.7452 | Tokens/sec: 5864 | LR: 0.000156\n",
+      "Epoch: 4 | Step: 1700 | Train Loss: 2.7875 | Tokens/sec: 5981 | LR: 0.000155\n",
+      "Epoch: 4 | Step: 1800 | Train Loss: 2.7465 | Tokens/sec: 5840 | LR: 0.000154\n",
+      "Epoch: 4 | Step: 1900 | Train Loss: 2.7860 | Tokens/sec: 5951 | LR: 0.000153\n",
+      "src=torch.Size([5, 703]), tgt=torch.Size([5, 178]), allocated=0.68GB\n",
+      "Epoch: 4 | Step: 2000 | Train Loss: 2.7761 | Tokens/sec: 6045 | LR: 0.000152\n",
+      "Epoch: 4 | Step: 2100 | Train Loss: 2.7947 | Tokens/sec: 5854 | LR: 0.000151\n",
+      "------------------------------------------------------------\n",
+      "[*] FINETUNE EPOCH 4\n",
+      "Train Loss : 2.7619\n",
+      "Valid Loss : 2.7422\n",
+      "------------------------------------------------------------\n",
+      "Saved best model (valid_loss=2.7422)\n",
+      "[*] Áp dụng Target Noising (Scheduled Sampling) với tỷ lệ: 0.04\n",
+      "Epoch: 5 | Step: 100 | Train Loss: 2.7426 | Tokens/sec: 5852 | LR: 0.000150\n",
+      "Epoch: 5 | Step: 200 | Train Loss: 2.7549 | Tokens/sec: 5779 | LR: 0.000149\n",
+      "Epoch: 5 | Step: 300 | Train Loss: 2.7402 | Tokens/sec: 5876 | LR: 0.000148\n",
+      "Epoch: 5 | Step: 400 | Train Loss: 2.7945 | Tokens/sec: 5912 | LR: 0.000147\n",
+      "src=torch.Size([5, 768]), tgt=torch.Size([5, 168]), allocated=0.83GB\n",
+      "Epoch: 5 | Step: 500 | Train Loss: 2.7886 | Tokens/sec: 5958 | LR: 0.000146\n",
+      "Epoch: 5 | Step: 600 | Train Loss: 2.7990 | Tokens/sec: 5799 | LR: 0.000146\n",
+      "Epoch: 5 | Step: 700 | Train Loss: 2.7916 | Tokens/sec: 6074 | LR: 0.000145\n",
+      "Epoch: 5 | Step: 800 | Train Loss: 2.8104 | Tokens/sec: 5958 | LR: 0.000144\n",
+      "Epoch: 5 | Step: 900 | Train Loss: 2.7786 | Tokens/sec: 5941 | LR: 0.000143\n",
+      "src=torch.Size([5, 898]), tgt=torch.Size([5, 168]), allocated=0.87GB\n",
+      "Epoch: 5 | Step: 1000 | Train Loss: 2.7088 | Tokens/sec: 5970 | LR: 0.000142\n",
+      "Epoch: 5 | Step: 1100 | Train Loss: 2.7798 | Tokens/sec: 5919 | LR: 0.000142\n",
+      "Epoch: 5 | Step: 1200 | Train Loss: 2.7671 | Tokens/sec: 5946 | LR: 0.000141\n",
+      "Epoch: 5 | Step: 1300 | Train Loss: 2.7619 | Tokens/sec: 5923 | LR: 0.000140\n",
+      "Epoch: 5 | Step: 1400 | Train Loss: 2.8028 | Tokens/sec: 5907 | LR: 0.000140\n",
+      "src=torch.Size([5, 736]), tgt=torch.Size([5, 199]), allocated=0.81GB\n",
+      "Epoch: 5 | Step: 1500 | Train Loss: 2.7925 | Tokens/sec: 5946 | LR: 0.000139\n",
+      "Epoch: 5 | Step: 1600 | Train Loss: 2.7360 | Tokens/sec: 6027 | LR: 0.000138\n",
+      "Epoch: 5 | Step: 1700 | Train Loss: 2.7600 | Tokens/sec: 5882 | LR: 0.000138\n",
+      "Epoch: 5 | Step: 1800 | Train Loss: 2.8242 | Tokens/sec: 5996 | LR: 0.000137\n",
+      "Epoch: 5 | Step: 1900 | Train Loss: 2.7963 | Tokens/sec: 6025 | LR: 0.000136\n",
+      "src=torch.Size([5, 875]), tgt=torch.Size([5, 199]), allocated=0.76GB\n",
+      "Epoch: 5 | Step: 2000 | Train Loss: 2.7908 | Tokens/sec: 5915 | LR: 0.000136\n",
+      "Epoch: 5 | Step: 2100 | Train Loss: 2.8201 | Tokens/sec: 5964 | LR: 0.000135\n",
+      "------------------------------------------------------------\n",
+      "[*] FINETUNE EPOCH 5\n",
+      "Train Loss : 2.7786\n",
+      "Valid Loss : 2.7311\n",
+      "------------------------------------------------------------\n",
+      "Saved best model (valid_loss=2.7311)\n",
+      "[*] Áp dụng Target Noising (Scheduled Sampling) với tỷ lệ: 0.06\n",
+      "Epoch: 6 | Step: 100 | Train Loss: 2.7280 | Tokens/sec: 5941 | LR: 0.000134\n",
+      "Epoch: 6 | Step: 200 | Train Loss: 2.7884 | Tokens/sec: 5933 | LR: 0.000133\n",
+      "Epoch: 6 | Step: 300 | Train Loss: 2.8346 | Tokens/sec: 5988 | LR: 0.000133\n",
+      "Epoch: 6 | Step: 400 | Train Loss: 2.7766 | Tokens/sec: 5749 | LR: 0.000132\n",
+      "src=torch.Size([5, 845]), tgt=torch.Size([5, 199]), allocated=0.80GB\n",
+      "Epoch: 6 | Step: 500 | Train Loss: 2.7676 | Tokens/sec: 5962 | LR: 0.000132\n",
+      "Epoch: 6 | Step: 600 | Train Loss: 2.7347 | Tokens/sec: 5922 | LR: 0.000131\n",
+      "Epoch: 6 | Step: 700 | Train Loss: 2.8021 | Tokens/sec: 5995 | LR: 0.000130\n",
+      "Epoch: 6 | Step: 800 | Train Loss: 2.8153 | Tokens/sec: 5953 | LR: 0.000130\n",
+      "Epoch: 6 | Step: 900 | Train Loss: 2.7881 | Tokens/sec: 6011 | LR: 0.000129\n",
+      "src=torch.Size([5, 961]), tgt=torch.Size([5, 172]), allocated=0.71GB\n",
+      "Epoch: 6 | Step: 1000 | Train Loss: 2.7853 | Tokens/sec: 5889 | LR: 0.000129\n",
+      "Epoch: 6 | Step: 1100 | Train Loss: 2.7920 | Tokens/sec: 5788 | LR: 0.000128\n",
+      "Epoch: 6 | Step: 1200 | Train Loss: 2.7949 | Tokens/sec: 5809 | LR: 0.000128\n",
+      "Epoch: 6 | Step: 1300 | Train Loss: 2.8469 | Tokens/sec: 5943 | LR: 0.000127\n",
+      "Epoch: 6 | Step: 1400 | Train Loss: 2.8208 | Tokens/sec: 5882 | LR: 0.000127\n",
+      "src=torch.Size([5, 831]), tgt=torch.Size([5, 181]), allocated=0.78GB\n",
+      "Epoch: 6 | Step: 1500 | Train Loss: 2.8154 | Tokens/sec: 5922 | LR: 0.000126\n",
+      "Epoch: 6 | Step: 1600 | Train Loss: 2.8474 | Tokens/sec: 5820 | LR: 0.000126\n",
+      "Epoch: 6 | Step: 1700 | Train Loss: 2.8183 | Tokens/sec: 6006 | LR: 0.000125\n",
+      "Epoch: 6 | Step: 1800 | Train Loss: 2.8180 | Tokens/sec: 5892 | LR: 0.000125\n",
+      "Epoch: 6 | Step: 1900 | Train Loss: 2.8676 | Tokens/sec: 5934 | LR: 0.000124\n",
+      "src=torch.Size([5, 880]), tgt=torch.Size([5, 173]), allocated=0.85GB\n",
+      "Epoch: 6 | Step: 2000 | Train Loss: 2.8356 | Tokens/sec: 5867 | LR: 0.000124\n",
+      "Epoch: 6 | Step: 2100 | Train Loss: 2.8174 | Tokens/sec: 5983 | LR: 0.000123\n",
+      "------------------------------------------------------------\n",
+      "[*] FINETUNE EPOCH 6\n",
+      "Train Loss : 2.8041\n",
+      "Valid Loss : 2.7261\n",
+      "------------------------------------------------------------\n",
+      "Saved best model (valid_loss=2.7261)\n",
+      "[*] Áp dụng Target Noising (Scheduled Sampling) với tỷ lệ: 0.08\n",
+      "Epoch: 7 | Step: 100 | Train Loss: 2.7775 | Tokens/sec: 5986 | LR: 0.000122\n",
+      "Epoch: 7 | Step: 200 | Train Loss: 2.8157 | Tokens/sec: 5954 | LR: 0.000122\n",
+      "Epoch: 7 | Step: 300 | Train Loss: 2.8005 | Tokens/sec: 5773 | LR: 0.000121\n",
+      "Epoch: 7 | Step: 400 | Train Loss: 2.7973 | Tokens/sec: 5966 | LR: 0.000121\n",
+      "src=torch.Size([5, 652]), tgt=torch.Size([5, 199]), allocated=0.81GB\n",
+      "Epoch: 7 | Step: 500 | Train Loss: 2.8317 | Tokens/sec: 5914 | LR: 0.000121\n",
+      "Epoch: 7 | Step: 600 | Train Loss: 2.8439 | Tokens/sec: 5842 | LR: 0.000120\n",
+      "Epoch: 7 | Step: 700 | Train Loss: 2.8311 | Tokens/sec: 5846 | LR: 0.000120\n",
+      "Epoch: 7 | Step: 800 | Train Loss: 2.8123 | Tokens/sec: 5897 | LR: 0.000119\n",
+      "Epoch: 7 | Step: 900 | Train Loss: 2.8608 | Tokens/sec: 5884 | LR: 0.000119\n",
+      "src=torch.Size([5, 950]), tgt=torch.Size([5, 171]), allocated=0.66GB\n",
+      "Epoch: 7 | Step: 1000 | Train Loss: 2.8264 | Tokens/sec: 5991 | LR: 0.000118\n",
+      "Epoch: 7 | Step: 1100 | Train Loss: 2.8291 | Tokens/sec: 5827 | LR: 0.000118\n",
+      "Epoch: 7 | Step: 1200 | Train Loss: 2.8385 | Tokens/sec: 5891 | LR: 0.000118\n",
+      "Epoch: 7 | Step: 1300 | Train Loss: 2.8409 | Tokens/sec: 5850 | LR: 0.000117\n",
+      "Epoch: 7 | Step: 1400 | Train Loss: 2.8490 | Tokens/sec: 5931 | LR: 0.000117\n",
+      "src=torch.Size([5, 906]), tgt=torch.Size([5, 199]), allocated=0.68GB\n",
+      "Epoch: 7 | Step: 1500 | Train Loss: 2.8427 | Tokens/sec: 5846 | LR: 0.000116\n",
+      "Epoch: 7 | Step: 1600 | Train Loss: 2.8530 | Tokens/sec: 5941 | LR: 0.000116\n",
+      "Epoch: 7 | Step: 1700 | Train Loss: 2.8696 | Tokens/sec: 5794 | LR: 0.000116\n",
+      "Epoch: 7 | Step: 1800 | Train Loss: 2.8645 | Tokens/sec: 5935 | LR: 0.000115\n",
+      "Epoch: 7 | Step: 1900 | Train Loss: 2.8539 | Tokens/sec: 5895 | LR: 0.000115\n",
+      "src=torch.Size([5, 749]), tgt=torch.Size([5, 199]), allocated=0.65GB\n",
+      "Epoch: 7 | Step: 2000 | Train Loss: 2.8470 | Tokens/sec: 5941 | LR: 0.000114\n",
+      "Epoch: 7 | Step: 2100 | Train Loss: 2.8459 | Tokens/sec: 5872 | LR: 0.000114\n",
+      "------------------------------------------------------------\n",
+      "[*] FINETUNE EPOCH 7\n",
+      "Train Loss : 2.8353\n",
+      "Valid Loss : 2.7227\n",
+      "------------------------------------------------------------\n",
+      "Saved best model (valid_loss=2.7227)\n",
+      "[*] Áp dụng Target Noising (Scheduled Sampling) với tỷ lệ: 0.10\n",
+      "Epoch: 8 | Step: 100 | Train Loss: 2.8450 | Tokens/sec: 5847 | LR: 0.000113\n",
+      "Epoch: 8 | Step: 200 | Train Loss: 2.8172 | Tokens/sec: 5864 | LR: 0.000113\n",
+      "Epoch: 8 | Step: 300 | Train Loss: 2.8646 | Tokens/sec: 5968 | LR: 0.000113\n",
+      "Epoch: 8 | Step: 400 | Train Loss: 2.8274 | Tokens/sec: 5821 | LR: 0.000112\n",
+      "src=torch.Size([5, 696]), tgt=torch.Size([5, 188]), allocated=0.73GB\n",
+      "Epoch: 8 | Step: 500 | Train Loss: 2.8651 | Tokens/sec: 5840 | LR: 0.000112\n",
+      "Epoch: 8 | Step: 600 | Train Loss: 2.8658 | Tokens/sec: 5915 | LR: 0.000112\n",
+      "Epoch: 8 | Step: 700 | Train Loss: 2.8796 | Tokens/sec: 5961 | LR: 0.000111\n",
+      "Epoch: 8 | Step: 800 | Train Loss: 2.8908 | Tokens/sec: 5934 | LR: 0.000111\n",
+      "Epoch: 8 | Step: 900 | Train Loss: 2.8774 | Tokens/sec: 6016 | LR: 0.000111\n",
+      "src=torch.Size([5, 771]), tgt=torch.Size([5, 128]), allocated=0.68GB\n",
+      "Epoch: 8 | Step: 1000 | Train Loss: 2.8612 | Tokens/sec: 5951 | LR: 0.000110\n",
+      "Epoch: 8 | Step: 1100 | Train Loss: 2.8758 | Tokens/sec: 5891 | LR: 0.000110\n",
+      "Epoch: 8 | Step: 1200 | Train Loss: 2.8674 | Tokens/sec: 5837 | LR: 0.000110\n",
+      "Epoch: 8 | Step: 1300 | Train Loss: 2.8714 | Tokens/sec: 5852 | LR: 0.000109\n",
+      "Epoch: 8 | Step: 1400 | Train Loss: 2.8718 | Tokens/sec: 5939 | LR: 0.000109\n",
+      "src=torch.Size([5, 872]), tgt=torch.Size([5, 199]), allocated=0.75GB\n",
+      "Epoch: 8 | Step: 1500 | Train Loss: 2.8809 | Tokens/sec: 5829 | LR: 0.000109\n",
+      "Epoch: 8 | Step: 1600 | Train Loss: 2.9003 | Tokens/sec: 5845 | LR: 0.000108\n",
+      "Epoch: 8 | Step: 1700 | Train Loss: 2.9110 | Tokens/sec: 5917 | LR: 0.000108\n",
+      "Epoch: 8 | Step: 1800 | Train Loss: 2.8673 | Tokens/sec: 5913 | LR: 0.000108\n",
+      "Epoch: 8 | Step: 1900 | Train Loss: 2.9204 | Tokens/sec: 5762 | LR: 0.000107\n",
+      "src=torch.Size([5, 867]), tgt=torch.Size([5, 173]), allocated=0.70GB\n",
+      "Epoch: 8 | Step: 2000 | Train Loss: 2.8472 | Tokens/sec: 5951 | LR: 0.000107\n",
+      "Epoch: 8 | Step: 2100 | Train Loss: 2.9178 | Tokens/sec: 5844 | LR: 0.000107\n",
+      "------------------------------------------------------------\n",
+      "[*] FINETUNE EPOCH 8\n",
+      "Train Loss : 2.8734\n",
+      "Valid Loss : 2.7219\n",
+      "------------------------------------------------------------\n",
+      "Saved best model (valid_loss=2.7219)\n",
+      "[*] Áp dụng Target Noising (Scheduled Sampling) với tỷ lệ: 0.10\n",
+      "Epoch: 9 | Step: 100 | Train Loss: 2.8136 | Tokens/sec: 5952 | LR: 0.000106\n",
+      "Epoch: 9 | Step: 200 | Train Loss: 2.8353 | Tokens/sec: 5972 | LR: 0.000106\n",
+      "Epoch: 9 | Step: 300 | Train Loss: 2.8326 | Tokens/sec: 5842 | LR: 0.000106\n",
+      "Epoch: 9 | Step: 400 | Train Loss: 2.8086 | Tokens/sec: 5901 | LR: 0.000105\n",
+      "src=torch.Size([5, 962]), tgt=torch.Size([5, 171]), allocated=0.76GB\n",
+      "Epoch: 9 | Step: 500 | Train Loss: 2.8204 | Tokens/sec: 5832 | LR: 0.000105\n",
+      "Epoch: 9 | Step: 600 | Train Loss: 2.8507 | Tokens/sec: 5906 | LR: 0.000105\n",
+      "Epoch: 9 | Step: 700 | Train Loss: 2.8542 | Tokens/sec: 5896 | LR: 0.000104\n",
+      "Epoch: 9 | Step: 800 | Train Loss: 2.8310 | Tokens/sec: 5802 | LR: 0.000104\n",
+      "Epoch: 9 | Step: 900 | Train Loss: 2.8191 | Tokens/sec: 5892 | LR: 0.000104\n",
+      "src=torch.Size([5, 810]), tgt=torch.Size([5, 185]), allocated=0.72GB\n",
+      "Epoch: 9 | Step: 1000 | Train Loss: 2.8872 | Tokens/sec: 5909 | LR: 0.000103\n",
+      "Epoch: 9 | Step: 1100 | Train Loss: 2.7995 | Tokens/sec: 5860 | LR: 0.000103\n",
+      "Epoch: 9 | Step: 1200 | Train Loss: 2.8369 | Tokens/sec: 5797 | LR: 0.000103\n",
+      "Epoch: 9 | Step: 1300 | Train Loss: 2.8751 | Tokens/sec: 5815 | LR: 0.000103\n",
+      "Epoch: 9 | Step: 1400 | Train Loss: 2.8674 | Tokens/sec: 5858 | LR: 0.000102\n",
+      "src=torch.Size([5, 1000]), tgt=torch.Size([5, 196]), allocated=0.63GB\n",
+      "Epoch: 9 | Step: 1500 | Train Loss: 2.8925 | Tokens/sec: 5984 | LR: 0.000102\n",
+      "Epoch: 9 | Step: 1600 | Train Loss: 2.9024 | Tokens/sec: 5994 | LR: 0.000102\n",
+      "Epoch: 9 | Step: 1700 | Train Loss: 2.8270 | Tokens/sec: 5821 | LR: 0.000102\n",
+      "Epoch: 9 | Step: 1800 | Train Loss: 2.8688 | Tokens/sec: 5982 | LR: 0.000101\n",
+      "Epoch: 9 | Step: 1900 | Train Loss: 2.8586 | Tokens/sec: 5883 | LR: 0.000101\n",
+      "src=torch.Size([5, 953]), tgt=torch.Size([5, 139]), allocated=0.63GB\n",
+      "Epoch: 9 | Step: 2000 | Train Loss: 2.8666 | Tokens/sec: 5986 | LR: 0.000101\n",
+      "Epoch: 9 | Step: 2100 | Train Loss: 2.9175 | Tokens/sec: 5831 | LR: 0.000100\n",
+      "------------------------------------------------------------\n",
+      "[*] FINETUNE EPOCH 9\n",
+      "Train Loss : 2.8527\n",
+      "Valid Loss : 2.7170\n",
+      "------------------------------------------------------------\n",
+      "Saved best model (valid_loss=2.7170)\n",
+      "[*] Áp dụng Target Noising (Scheduled Sampling) với tỷ lệ: 0.10\n",
+      "Epoch: 10 | Step: 100 | Train Loss: 2.8132 | Tokens/sec: 5942 | LR: 0.000100\n",
+      "Epoch: 10 | Step: 200 | Train Loss: 2.8047 | Tokens/sec: 5872 | LR: 0.000100\n",
+      "Epoch: 10 | Step: 300 | Train Loss: 2.8204 | Tokens/sec: 5940 | LR: 0.000100\n",
+      "Epoch: 10 | Step: 400 | Train Loss: 2.7970 | Tokens/sec: 5835 | LR: 0.000099\n",
+      "src=torch.Size([5, 788]), tgt=torch.Size([5, 164]), allocated=0.73GB\n",
+      "Epoch: 10 | Step: 500 | Train Loss: 2.8242 | Tokens/sec: 5893 | LR: 0.000099\n",
+      "Epoch: 10 | Step: 600 | Train Loss: 2.8069 | Tokens/sec: 6021 | LR: 0.000099\n",
+      "Epoch: 10 | Step: 700 | Train Loss: 2.8408 | Tokens/sec: 5871 | LR: 0.000099\n",
+      "Epoch: 10 | Step: 800 | Train Loss: 2.8152 | Tokens/sec: 5920 | LR: 0.000098\n",
+      "Epoch: 10 | Step: 900 | Train Loss: 2.8476 | Tokens/sec: 5815 | LR: 0.000098\n",
+      "src=torch.Size([5, 722]), tgt=torch.Size([5, 154]), allocated=0.71GB\n",
+      "Epoch: 10 | Step: 1000 | Train Loss: 2.8073 | Tokens/sec: 5915 | LR: 0.000098\n",
+      "Epoch: 10 | Step: 1100 | Train Loss: 2.8304 | Tokens/sec: 5839 | LR: 0.000098\n",
+      "Epoch: 10 | Step: 1200 | Train Loss: 2.8614 | Tokens/sec: 5900 | LR: 0.000097\n",
+      "Epoch: 10 | Step: 1300 | Train Loss: 2.8254 | Tokens/sec: 5961 | LR: 0.000097\n",
+      "Epoch: 10 | Step: 1400 | Train Loss: 2.8577 | Tokens/sec: 5835 | LR: 0.000097\n",
+      "src=torch.Size([5, 874]), tgt=torch.Size([5, 155]), allocated=0.72GB\n",
+      "Epoch: 10 | Step: 1500 | Train Loss: 2.8092 | Tokens/sec: 5927 | LR: 0.000097\n",
+      "Epoch: 10 | Step: 1600 | Train Loss: 2.8436 | Tokens/sec: 5883 | LR: 0.000096\n",
+      "Epoch: 10 | Step: 1700 | Train Loss: 2.8393 | Tokens/sec: 5940 | LR: 0.000096\n",
+      "Epoch: 10 | Step: 1800 | Train Loss: 2.8885 | Tokens/sec: 5881 | LR: 0.000096\n",
+      "Epoch: 10 | Step: 1900 | Train Loss: 2.8320 | Tokens/sec: 5860 | LR: 0.000096\n",
+      "src=torch.Size([5, 619]), tgt=torch.Size([5, 142]), allocated=0.84GB\n",
+      "Epoch: 10 | Step: 2000 | Train Loss: 2.8651 | Tokens/sec: 5999 | LR: 0.000096\n",
+      "Epoch: 10 | Step: 2100 | Train Loss: 2.8460 | Tokens/sec: 5900 | LR: 0.000095\n",
+      "------------------------------------------------------------\n",
+      "[*] FINETUNE EPOCH 10\n",
+      "Train Loss : 2.8314\n",
+      "Valid Loss : 2.7160\n",
+      "------------------------------------------------------------\n",
+      "Saved best model (valid_loss=2.7160)\n",
+      "[*] Áp dụng Target Noising (Scheduled Sampling) với tỷ lệ: 0.10\n",
+      "Epoch: 11 | Step: 100 | Train Loss: 2.7715 | Tokens/sec: 5990 | LR: 0.000095\n",
+      "Epoch: 11 | Step: 200 | Train Loss: 2.7794 | Tokens/sec: 5955 | LR: 0.000095\n",
+      "Epoch: 11 | Step: 300 | Train Loss: 2.8132 | Tokens/sec: 5787 | LR: 0.000095\n",
+      "Epoch: 11 | Step: 400 | Train Loss: 2.8009 | Tokens/sec: 5896 | LR: 0.000094\n",
+      "src=torch.Size([5, 1000]), tgt=torch.Size([5, 176]), allocated=0.73GB\n",
+      "Epoch: 11 | Step: 500 | Train Loss: 2.7724 | Tokens/sec: 5972 | LR: 0.000094\n",
+      "Epoch: 11 | Step: 600 | Train Loss: 2.7904 | Tokens/sec: 5856 | LR: 0.000094\n",
+      "Epoch: 11 | Step: 700 | Train Loss: 2.7905 | Tokens/sec: 5858 | LR: 0.000094\n",
+      "Epoch: 11 | Step: 800 | Train Loss: 2.8224 | Tokens/sec: 5883 | LR: 0.000093\n",
+      "Epoch: 11 | Step: 900 | Train Loss: 2.8157 | Tokens/sec: 5882 | LR: 0.000093\n",
+      "src=torch.Size([5, 706]), tgt=torch.Size([5, 178]), allocated=0.77GB\n",
+      "Epoch: 11 | Step: 1000 | Train Loss: 2.8417 | Tokens/sec: 5879 | LR: 0.000093\n",
+      "Epoch: 11 | Step: 1100 | Train Loss: 2.8495 | Tokens/sec: 5935 | LR: 0.000093\n",
+      "Epoch: 11 | Step: 1200 | Train Loss: 2.8561 | Tokens/sec: 5945 | LR: 0.000093\n",
+      "Epoch: 11 | Step: 1300 | Train Loss: 2.7733 | Tokens/sec: 5858 | LR: 0.000092\n",
+      "Epoch: 11 | Step: 1400 | Train Loss: 2.8202 | Tokens/sec: 6035 | LR: 0.000092\n",
+      "src=torch.Size([5, 1000]), tgt=torch.Size([5, 199]), allocated=0.64GB\n",
+      "Epoch: 11 | Step: 1500 | Train Loss: 2.8313 | Tokens/sec: 6062 | LR: 0.000092\n",
+      "Epoch: 11 | Step: 1600 | Train Loss: 2.8173 | Tokens/sec: 5810 | LR: 0.000092\n",
+      "Epoch: 11 | Step: 1700 | Train Loss: 2.7995 | Tokens/sec: 5811 | LR: 0.000092\n",
+      "Epoch: 11 | Step: 1800 | Train Loss: 2.8534 | Tokens/sec: 5951 | LR: 0.000091\n",
+      "Epoch: 11 | Step: 1900 | Train Loss: 2.8114 | Tokens/sec: 5875 | LR: 0.000091\n",
+      "src=torch.Size([5, 911]), tgt=torch.Size([5, 174]), allocated=0.83GB\n",
+      "Epoch: 11 | Step: 2000 | Train Loss: 2.8304 | Tokens/sec: 5821 | LR: 0.000091\n",
+      "Epoch: 11 | Step: 2100 | Train Loss: 2.8433 | Tokens/sec: 5924 | LR: 0.000091\n",
+      "------------------------------------------------------------\n",
+      "[*] FINETUNE EPOCH 11\n",
+      "Train Loss : 2.8146\n",
+      "Valid Loss : 2.7118\n",
+      "------------------------------------------------------------\n",
+      "Saved best model (valid_loss=2.7118)\n",
+      "[*] Áp dụng Target Noising (Scheduled Sampling) với tỷ lệ: 0.10\n",
+      "Epoch: 12 | Step: 100 | Train Loss: 2.7694 | Tokens/sec: 5849 | LR: 0.000091\n",
+      "Epoch: 12 | Step: 200 | Train Loss: 2.7501 | Tokens/sec: 5894 | LR: 0.000090\n",
+      "Epoch: 12 | Step: 300 | Train Loss: 2.7662 | Tokens/sec: 5869 | LR: 0.000090\n",
+      "Epoch: 12 | Step: 400 | Train Loss: 2.8024 | Tokens/sec: 5970 | LR: 0.000090\n",
+      "src=torch.Size([5, 934]), tgt=torch.Size([5, 180]), allocated=0.63GB\n",
+      "Epoch: 12 | Step: 500 | Train Loss: 2.7892 | Tokens/sec: 5943 | LR: 0.000090\n",
+      "Epoch: 12 | Step: 600 | Train Loss: 2.7850 | Tokens/sec: 5886 | LR: 0.000090\n",
+      "Epoch: 12 | Step: 700 | Train Loss: 2.7904 | Tokens/sec: 5837 | LR: 0.000089\n",
+      "Epoch: 12 | Step: 800 | Train Loss: 2.8128 | Tokens/sec: 5861 | LR: 0.000089\n",
+      "Epoch: 12 | Step: 900 | Train Loss: 2.7819 | Tokens/sec: 5841 | LR: 0.000089\n",
+      "src=torch.Size([5, 758]), tgt=torch.Size([5, 171]), allocated=0.79GB\n",
+      "Epoch: 12 | Step: 1000 | Train Loss: 2.8182 | Tokens/sec: 5932 | LR: 0.000089\n",
+      "Epoch: 12 | Step: 1100 | Train Loss: 2.7917 | Tokens/sec: 5947 | LR: 0.000089\n",
+      "Epoch: 12 | Step: 1200 | Train Loss: 2.7933 | Tokens/sec: 5827 | LR: 0.000089\n",
+      "Epoch: 12 | Step: 1300 | Train Loss: 2.7912 | Tokens/sec: 5879 | LR: 0.000088\n",
+      "Epoch: 12 | Step: 1400 | Train Loss: 2.8009 | Tokens/sec: 5889 | LR: 0.000088\n",
+      "src=torch.Size([5, 1000]), tgt=torch.Size([5, 199]), allocated=0.56GB\n",
+      "Epoch: 12 | Step: 1500 | Train Loss: 2.8012 | Tokens/sec: 5882 | LR: 0.000088\n",
+      "Epoch: 12 | Step: 1600 | Train Loss: 2.8323 | Tokens/sec: 5884 | LR: 0.000088\n",
+      "Epoch: 12 | Step: 1700 | Train Loss: 2.8020 | Tokens/sec: 5915 | LR: 0.000088\n",
+      "Epoch: 12 | Step: 1800 | Train Loss: 2.7973 | Tokens/sec: 5901 | LR: 0.000088\n",
+      "Epoch: 12 | Step: 1900 | Train Loss: 2.8446 | Tokens/sec: 5856 | LR: 0.000087\n",
+      "src=torch.Size([5, 991]), tgt=torch.Size([5, 158]), allocated=0.75GB\n",
+      "Epoch: 12 | Step: 2000 | Train Loss: 2.8138 | Tokens/sec: 5860 | LR: 0.000087\n",
+      "Epoch: 12 | Step: 2100 | Train Loss: 2.8377 | Tokens/sec: 5912 | LR: 0.000087\n",
+      "------------------------------------------------------------\n",
+      "[*] FINETUNE EPOCH 12\n",
+      "Train Loss : 2.7986\n",
+      "Valid Loss : 2.7080\n",
+      "------------------------------------------------------------\n",
+      "Saved best model (valid_loss=2.7080)\n",
+      "[*] Áp dụng Target Noising (Scheduled Sampling) với tỷ lệ: 0.10\n",
+      "Epoch: 13 | Step: 100 | Train Loss: 2.7615 | Tokens/sec: 5994 | LR: 0.000087\n",
+      "Epoch: 13 | Step: 200 | Train Loss: 2.7579 | Tokens/sec: 5946 | LR: 0.000087\n",
+      "Epoch: 13 | Step: 300 | Train Loss: 2.7554 | Tokens/sec: 5830 | LR: 0.000086\n",
+      "Epoch: 13 | Step: 400 | Train Loss: 2.7672 | Tokens/sec: 5962 | LR: 0.000086\n",
+      "src=torch.Size([5, 874]), tgt=torch.Size([5, 188]), allocated=0.61GB\n",
+      "Epoch: 13 | Step: 500 | Train Loss: 2.8096 | Tokens/sec: 5852 | LR: 0.000086\n",
+      "Epoch: 13 | Step: 600 | Train Loss: 2.7664 | Tokens/sec: 5901 | LR: 0.000086\n",
+      "Epoch: 13 | Step: 700 | Train Loss: 2.7621 | Tokens/sec: 5949 | LR: 0.000086\n",
+      "Epoch: 13 | Step: 800 | Train Loss: 2.7706 | Tokens/sec: 5939 | LR: 0.000086\n",
+      "Epoch: 13 | Step: 900 | Train Loss: 2.7783 | Tokens/sec: 5860 | LR: 0.000085\n",
+      "src=torch.Size([5, 951]), tgt=torch.Size([5, 172]), allocated=0.80GB\n",
+      "Epoch: 13 | Step: 1000 | Train Loss: 2.8038 | Tokens/sec: 5854 | LR: 0.000085\n",
+      "Epoch: 13 | Step: 1100 | Train Loss: 2.7979 | Tokens/sec: 5887 | LR: 0.000085\n",
+      "Epoch: 13 | Step: 1200 | Train Loss: 2.7874 | Tokens/sec: 6038 | LR: 0.000085\n",
+      "Epoch: 13 | Step: 1300 | Train Loss: 2.7985 | Tokens/sec: 5878 | LR: 0.000085\n",
+      "Epoch: 13 | Step: 1400 | Train Loss: 2.7802 | Tokens/sec: 5855 | LR: 0.000085\n",
+      "src=torch.Size([5, 886]), tgt=torch.Size([5, 188]), allocated=0.72GB\n",
+      "Epoch: 13 | Step: 1500 | Train Loss: 2.7908 | Tokens/sec: 5878 | LR: 0.000084\n",
+      "Epoch: 13 | Step: 1600 | Train Loss: 2.7954 | Tokens/sec: 5830 | LR: 0.000084\n",
+      "Epoch: 13 | Step: 1700 | Train Loss: 2.7916 | Tokens/sec: 5920 | LR: 0.000084\n",
+      "Epoch: 13 | Step: 1800 | Train Loss: 2.8063 | Tokens/sec: 5952 | LR: 0.000084\n",
+      "Epoch: 13 | Step: 1900 | Train Loss: 2.8073 | Tokens/sec: 5910 | LR: 0.000084\n",
+      "src=torch.Size([5, 797]), tgt=torch.Size([5, 187]), allocated=0.66GB\n",
+      "Epoch: 13 | Step: 2000 | Train Loss: 2.7848 | Tokens/sec: 5861 | LR: 0.000084\n",
+      "Epoch: 13 | Step: 2100 | Train Loss: 2.7900 | Tokens/sec: 5779 | LR: 0.000084\n",
+      "------------------------------------------------------------\n",
+      "[*] FINETUNE EPOCH 13\n",
+      "Train Loss : 2.7854\n",
+      "Valid Loss : 2.7061\n",
+      "------------------------------------------------------------\n",
+      "Saved best model (valid_loss=2.7061)\n",
+      "[*] Áp dụng Target Noising (Scheduled Sampling) với tỷ lệ: 0.10\n",
+      "Epoch: 14 | Step: 100 | Train Loss: 2.7686 | Tokens/sec: 5793 | LR: 0.000083\n",
+      "Epoch: 14 | Step: 200 | Train Loss: 2.7145 | Tokens/sec: 5902 | LR: 0.000083\n",
+      "Epoch: 14 | Step: 300 | Train Loss: 2.7681 | Tokens/sec: 5843 | LR: 0.000083\n",
+      "Epoch: 14 | Step: 400 | Train Loss: 2.7487 | Tokens/sec: 5917 | LR: 0.000083\n",
+      "src=torch.Size([5, 694]), tgt=torch.Size([5, 190]), allocated=0.67GB\n",
+      "Epoch: 14 | Step: 500 | Train Loss: 2.7299 | Tokens/sec: 5956 | LR: 0.000083\n",
+      "Epoch: 14 | Step: 600 | Train Loss: 2.7566 | Tokens/sec: 5868 | LR: 0.000083\n",
+      "Epoch: 14 | Step: 700 | Train Loss: 2.7334 | Tokens/sec: 5899 | LR: 0.000082\n",
+      "Epoch: 14 | Step: 800 | Train Loss: 2.7575 | Tokens/sec: 5919 | LR: 0.000082\n",
+      "Epoch: 14 | Step: 900 | Train Loss: 2.7564 | Tokens/sec: 5766 | LR: 0.000082\n",
+      "src=torch.Size([5, 690]), tgt=torch.Size([5, 199]), allocated=0.79GB\n",
+      "Epoch: 14 | Step: 1000 | Train Loss: 2.7837 | Tokens/sec: 5879 | LR: 0.000082\n",
+      "Epoch: 14 | Step: 1100 | Train Loss: 2.8157 | Tokens/sec: 5942 | LR: 0.000082\n",
+      "Epoch: 14 | Step: 1200 | Train Loss: 2.7716 | Tokens/sec: 5915 | LR: 0.000082\n",
+      "Epoch: 14 | Step: 1300 | Train Loss: 2.7692 | Tokens/sec: 5933 | LR: 0.000082\n",
+      "Epoch: 14 | Step: 1400 | Train Loss: 2.7572 | Tokens/sec: 5784 | LR: 0.000081\n",
+      "src=torch.Size([5, 830]), tgt=torch.Size([5, 159]), allocated=0.73GB\n",
+      "Epoch: 14 | Step: 1500 | Train Loss: 2.8049 | Tokens/sec: 5817 | LR: 0.000081\n",
+      "Epoch: 14 | Step: 1600 | Train Loss: 2.7540 | Tokens/sec: 5943 | LR: 0.000081\n",
+      "Epoch: 14 | Step: 1700 | Train Loss: 2.7544 | Tokens/sec: 5932 | LR: 0.000081\n",
+      "Epoch: 14 | Step: 1800 | Train Loss: 2.8034 | Tokens/sec: 5888 | LR: 0.000081\n",
+      "Epoch: 14 | Step: 1900 | Train Loss: 2.7733 | Tokens/sec: 5945 | LR: 0.000081\n",
+      "src=torch.Size([5, 919]), tgt=torch.Size([5, 147]), allocated=0.71GB\n",
+      "Epoch: 14 | Step: 2000 | Train Loss: 2.8398 | Tokens/sec: 5916 | LR: 0.000081\n",
+      "Epoch: 14 | Step: 2100 | Train Loss: 2.7858 | Tokens/sec: 5782 | LR: 0.000081\n",
+      "------------------------------------------------------------\n",
+      "[*] FINETUNE EPOCH 14\n",
+      "Train Loss : 2.7687\n",
+      "Valid Loss : 2.7020\n",
+      "------------------------------------------------------------\n",
+      "Saved best model (valid_loss=2.7020)\n",
+      "[*] Áp dụng Target Noising (Scheduled Sampling) với tỷ lệ: 0.10\n",
+      "Epoch: 15 | Step: 100 | Train Loss: 2.7265 | Tokens/sec: 5888 | LR: 0.000080\n",
+      "Epoch: 15 | Step: 200 | Train Loss: 2.7174 | Tokens/sec: 5821 | LR: 0.000080\n",
+      "Epoch: 15 | Step: 300 | Train Loss: 2.7524 | Tokens/sec: 5836 | LR: 0.000080\n",
+      "Epoch: 15 | Step: 400 | Train Loss: 2.7557 | Tokens/sec: 5988 | LR: 0.000080\n",
+      "src=torch.Size([5, 860]), tgt=torch.Size([5, 150]), allocated=0.73GB\n",
+      "Epoch: 15 | Step: 500 | Train Loss: 2.7443 | Tokens/sec: 5819 | LR: 0.000080\n",
+      "Epoch: 15 | Step: 600 | Train Loss: 2.7399 | Tokens/sec: 5794 | LR: 0.000080\n",
+      "Epoch: 15 | Step: 700 | Train Loss: 2.7469 | Tokens/sec: 5931 | LR: 0.000080\n",
+      "Epoch: 15 | Step: 800 | Train Loss: 2.7291 | Tokens/sec: 5986 | LR: 0.000079\n",
+      "Epoch: 15 | Step: 900 | Train Loss: 2.7404 | Tokens/sec: 5845 | LR: 0.000079\n",
+      "src=torch.Size([5, 787]), tgt=torch.Size([5, 185]), allocated=0.61GB\n",
+      "Epoch: 15 | Step: 1000 | Train Loss: 2.7309 | Tokens/sec: 5927 | LR: 0.000079\n",
+      "Epoch: 15 | Step: 1100 | Train Loss: 2.7498 | Tokens/sec: 6015 | LR: 0.000079\n",
+      "Epoch: 15 | Step: 1200 | Train Loss: 2.7389 | Tokens/sec: 5869 | LR: 0.000079\n",
+      "Epoch: 15 | Step: 1300 | Train Loss: 2.7553 | Tokens/sec: 5905 | LR: 0.000079\n",
+      "Epoch: 15 | Step: 1400 | Train Loss: 2.7853 | Tokens/sec: 5832 | LR: 0.000079\n",
+      "src=torch.Size([5, 820]), tgt=torch.Size([5, 185]), allocated=0.70GB\n",
+      "Epoch: 15 | Step: 1500 | Train Loss: 2.7547 | Tokens/sec: 5854 | LR: 0.000079\n",
+      "Epoch: 15 | Step: 1600 | Train Loss: 2.7556 | Tokens/sec: 5841 | LR: 0.000078\n",
+      "Epoch: 15 | Step: 1700 | Train Loss: 2.7780 | Tokens/sec: 5904 | LR: 0.000078\n",
+      "Epoch: 15 | Step: 1800 | Train Loss: 2.8145 | Tokens/sec: 5981 | LR: 0.000078\n",
+      "Epoch: 15 | Step: 1900 | Train Loss: 2.8129 | Tokens/sec: 5851 | LR: 0.000078\n",
+      "src=torch.Size([5, 782]), tgt=torch.Size([5, 166]), allocated=0.69GB\n",
+      "Epoch: 15 | Step: 2000 | Train Loss: 2.7598 | Tokens/sec: 5882 | LR: 0.000078\n",
+      "Epoch: 15 | Step: 2100 | Train Loss: 2.7716 | Tokens/sec: 5986 | LR: 0.000078\n",
+      "------------------------------------------------------------\n",
+      "[*] FINETUNE EPOCH 15\n",
+      "Train Loss : 2.7561\n",
+      "Valid Loss : 2.7026\n",
+      "------------------------------------------------------------\n"
+     ]
+    }
+   ],
+   "source": [
+    "# ==========================================================\n",
+    "# FINETUNE CONFIG\n",
+    "# ==========================================================\n",
+    "FINETUNE = True\n",
+    "EPOCHS = 15\n",
     "\n",
+    "# ----------------------------------------------------------\n",
+    "# Freeze Encoder\n",
+    "# ----------------------------------------------------------\n",
+    "if FINETUNE:\n",
+    "    print(\"Freeze encoder...\")\n",
+    "    freeze_module(model.encoder)\n",
+    "    freeze_module(model.src_embed)\n",
     "\n",
-    "# if TUNE:\n",
-    "#     print(\"Bắt đầu finetune\")    \n",
-    "#     for epoch in range(1, FINETUNE + 1):\n",
-    "#         # Bước 1: Huấn luyện trên tập Train (TRUYỀN THÊM VOCAB VÀO ĐÂY)\n",
-    "#         train_loss = train_epoch(model, train_loader, criterion, ft_optimizer, device, epoch, tokenizer)\n",
-    "        \n",
-    "#         # Bước 2: Đánh giá trên tập Test\n",
-    "#         valid_loss = evaluate_epoch(model, valid_loader, criterion, device)\n",
-    "        \n",
-    "#         # Bước 3: Tổng kết Epoch\n",
-    "#         print(\"-\" * 60)\n",
-    "#         print(f\"[*] TỔNG KẾT EPOCH {epoch}:\")\n",
-    "#         print(f\"    Train Loss: {train_loss:.4f} | Valid Loss: {valid_loss:.4f}\")\n",
-    "#         print(\"-\" * 60)\n",
-    "        \n",
-    "#         # Lưu checkpoint\n",
-    "#         if epoch % 5 == 0: # Lưu mỗi 5 epoch để tiết kiệm dung lượng\n",
-    "#             torch.save(model.state_dict(), f\"output/transformer_ft_epoch_{epoch}.pth\")\n",
-    "# else:\n",
-    "#     checkpoint_path = 'output/transformer_ft_epoch_5.pth'\n",
-    "#     model.load_state_dict(torch.load(checkpoint_path, map_location=device))\n",
-    "#     model.to(device)"
+    "    trainable_params = sum(\n",
+    "        p.numel() for p in model.parameters()\n",
+    "        if p.requires_grad\n",
+    "    )\n",
+    "    total_params = sum(\n",
+    "        p.numel() for p in model.parameters()\n",
+    "    )\n",
+    "    print(f\"Trainable params : {trainable_params:,}\")\n",
+    "    print(f\"Total params     : {total_params:,}\")\n",
+    "    print(\n",
+    "        f\"Trainable ratio  : \"\n",
+    "        f\"{100 * trainable_params / total_params:.2f}%\"\n",
+    "    )\n",
+    "\n",
+    "# ----------------------------------------------------------\n",
+    "# Criterion\n",
+    "# ----------------------------------------------------------\n",
+    "criterion = LabelSmoothing(\n",
+    "    size=VOCAB_SIZE,\n",
+    "    padding_idx=0,\n",
+    "    smoothing=0.05\n",
+    ")\n",
+    "criterion.to(device)\n",
+    "\n",
+    "# ----------------------------------------------------------\n",
+    "# Optimizer\n",
+    "# Chỉ tối ưu các tham số chưa freeze\n",
+    "# ----------------------------------------------------------\n",
+    "base_optimizer = torch.optim.AdamW(\n",
+    "    filter(lambda p: p.requires_grad, model.parameters()),\n",
+    "    lr=0,\n",
+    "    betas=(0.9, 0.98),\n",
+    "    eps=1e-9,\n",
+    "    weight_decay=1e-4\n",
+    ")\n",
+    "\n",
+    "optimizer = NoamOpt(\n",
+    "    model_size=D_MODEL,\n",
+    "    factor=0.25,      # nhỏ hơn pretrain\n",
+    "    warmup=1000,      # warmup ngắn hơn\n",
+    "    optimizer=base_optimizer\n",
+    ")\n",
+    "\n",
+    "# ==========================================================\n",
+    "# FINETUNE LOOP\n",
+    "# ==========================================================\n",
+    "if FINETUNE:\n",
+    "    print(\"Bắt đầu finetune trên bộ dữ liệu summary\")\n",
+    "    best_valid_loss = float(\"inf\")\n",
+    "    for epoch in range(1, EPOCHS + 1):\n",
+    "        train_loss = train_epoch(\n",
+    "            model,\n",
+    "            train_loader,\n",
+    "            criterion,\n",
+    "            optimizer,\n",
+    "            device,\n",
+    "            epoch,\n",
+    "            tokenizer\n",
+    "        )\n",
+    "        valid_loss = evaluate_epoch(\n",
+    "            model,\n",
+    "            valid_loader,\n",
+    "            criterion,\n",
+    "            device\n",
+    "        )\n",
+    "        print(\"-\" * 60)\n",
+    "        print(f\"[*] FINETUNE EPOCH {epoch}\")\n",
+    "        print(f\"Train Loss : {train_loss:.4f}\")\n",
+    "        print(f\"Valid Loss : {valid_loss:.4f}\")\n",
+    "        print(\"-\" * 60)\n",
+    "\n",
+    "        # save best\n",
+    "        if valid_loss < best_valid_loss:\n",
+    "            best_valid_loss = valid_loss\n",
+    "            torch.save(\n",
+    "                model.state_dict(),\n",
+    "                \"/kaggle/working/summary_finetune_best.pth\"\n",
+    "            )\n",
+    "            print(\n",
+    "                f\"Saved best model \"\n",
+    "                f\"(valid_loss={valid_loss:.4f})\"\n",
+    "            )\n",
+    "        # save every epoch\n",
+    "        torch.save(\n",
+    "            model.state_dict(),\n",
+    "            f\"/kaggle/working/summary_finetune_epoch_{epoch}.pth\"\n",
+    "        )\n",
+    "    model.load_state_dict(\n",
+    "        torch.load(\"/kaggle/working/summary_finetune_best.pth\", map_location=device)\n",
+    "    )\n",
+    "    model.eval()\n",
+    "else:\n",
+    "    model.eval()"
    ]
   },
   {
    "cell_type": "markdown",
-   "id": "da80e0f9",
+   "id": "aab2bf34",
    "metadata": {
     "papermill": {
-     "duration": 0.021713,
-     "end_time": "2026-06-04T17:18:10.482663+00:00",
+     "duration": 0.028085,
+     "end_time": "2026-06-04T20:31:51.071647+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:18:10.460950+00:00",
+     "start_time": "2026-06-04T20:31:51.043562+00:00",
      "status": "completed"
     },
     "tags": []
@@ -2253,20 +2830,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 31,
-   "id": "bbfc57b6",
+   "execution_count": 32,
+   "id": "e3dd29fb",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:18:10.528923Z",
-     "iopub.status.busy": "2026-06-04T17:18:10.528049Z",
-     "iopub.status.idle": "2026-06-04T17:18:10.545337Z",
-     "shell.execute_reply": "2026-06-04T17:18:10.544347Z"
+     "iopub.execute_input": "2026-06-04T20:31:51.129228Z",
+     "iopub.status.busy": "2026-06-04T20:31:51.128721Z",
+     "iopub.status.idle": "2026-06-04T20:31:51.141910Z",
+     "shell.execute_reply": "2026-06-04T20:31:51.141439Z"
     },
     "papermill": {
-     "duration": 0.042618,
-     "end_time": "2026-06-04T17:18:10.547142+00:00",
+     "duration": 0.042661,
+     "end_time": "2026-06-04T20:31:51.143128+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:18:10.504524+00:00",
+     "start_time": "2026-06-04T20:31:51.100467+00:00",
      "status": "completed"
     },
     "tags": []
@@ -2432,7 +3009,7 @@
     "    tokenizer,\n",
     "    device,\n",
     "    max_src_len=1280,\n",
-    "    max_tgt_len=150,\n",
+    "    max_tgt_len=200,\n",
     "    beam_size=4,\n",
     "    min_len=30,\n",
     "    alpha=0.8,\n",
@@ -2471,20 +3048,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 32,
-   "id": "c40e15c4",
+   "execution_count": 33,
+   "id": "8494044a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:18:10.593823Z",
-     "iopub.status.busy": "2026-06-04T17:18:10.592558Z",
-     "iopub.status.idle": "2026-06-04T17:18:10.601889Z",
-     "shell.execute_reply": "2026-06-04T17:18:10.600683Z"
+     "iopub.execute_input": "2026-06-04T20:31:51.198701Z",
+     "iopub.status.busy": "2026-06-04T20:31:51.198458Z",
+     "iopub.status.idle": "2026-06-04T20:31:51.203997Z",
+     "shell.execute_reply": "2026-06-04T20:31:51.203409Z"
     },
     "papermill": {
-     "duration": 0.034758,
-     "end_time": "2026-06-04T17:18:10.603975+00:00",
+     "duration": 0.035265,
+     "end_time": "2026-06-04T20:31:51.205291+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:18:10.569217+00:00",
+     "start_time": "2026-06-04T20:31:51.170026+00:00",
      "status": "completed"
     },
     "tags": []
@@ -2557,20 +3134,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 33,
-   "id": "f6524a8c",
+   "execution_count": 34,
+   "id": "1cc23a0e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-06-04T17:18:10.650124Z",
-     "iopub.status.busy": "2026-06-04T17:18:10.649286Z",
-     "iopub.status.idle": "2026-06-04T21:15:59.645404Z",
-     "shell.execute_reply": "2026-06-04T21:15:59.644130Z"
+     "iopub.execute_input": "2026-06-04T20:31:51.261071Z",
+     "iopub.status.busy": "2026-06-04T20:31:51.260556Z",
+     "iopub.status.idle": "2026-06-04T22:06:52.743398Z",
+     "shell.execute_reply": "2026-06-04T22:06:52.742469Z"
     },
     "papermill": {
-     "duration": 14269.022286,
-     "end_time": "2026-06-04T21:15:59.648255+00:00",
+     "duration": 5701.512797,
+     "end_time": "2026-06-04T22:06:52.745135+00:00",
      "exception": false,
-     "start_time": "2026-06-04T17:18:10.625969+00:00",
+     "start_time": "2026-06-04T20:31:51.232338+00:00",
      "status": "completed"
     },
     "tags": []
@@ -2579,7 +3156,7 @@
     {
      "data": {
       "application/vnd.jupyter.widget-view+json": {
-       "model_id": "b962fc40382247319b7e9ebd7b6292d1",
+       "model_id": "ae6df1d72786425d83a66b02e2e2b987",
        "version_major": 2,
        "version_minor": 0
       },
@@ -2602,11 +3179,11 @@
       "4   4  KKday_Vietnam vừa công_bố hợp_tác chiến_lược v...   \n",
       "\n",
       "                                             summary  \n",
-      "0  Trong khuôn_khổ Lễ trao giải_thưởng Du_lịch Th...  \n",
-      "1  Theo bảng xếp_hạng di_sản quốc_tế mới nhất thế...  \n",
-      "2  Các tỉnh Lạng_Sơn , Lạng_Sơn , Bắc_Kạn , Lạng_...  \n",
-      "3  Giải_thưởng Du_lịch quốc_tế Phú_Quốc vừa công_...  \n",
-      "4  Sự phát_triển của du_khách và du_lịch tại Việt...  \n",
+      "0  Lễ trao giải World_Awards 2024 diễn ra tại Phú...  \n",
+      "1  Theo bảng xếp_hạng du_lịch quốc_tế năm 2024 , ...  \n",
+      "2  Văn_hoá dân_tộc Đông_Bắc_Bắc đã trưng_bày các ...  \n",
+      "3  Phú_Quốc đã giành giải_thưởng \" Du_lịch Phú_Qu...  \n",
+      "4  Tại sự_kiện du_lịch tại Hà_Nội , khách_sạn đã ...  \n",
       "Saved 1349 samples -> model_outputs.csv\n"
      ]
     }
@@ -2714,20 +3291,96 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 14377.942756,
-   "end_time": "2026-06-04T21:16:01.599987+00:00",
+   "duration": 9889.095945,
+   "end_time": "2026-06-04T22:06:55.977201+00:00",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2026-06-04T17:16:23.657231+00:00",
+   "start_time": "2026-06-04T19:22:06.881256+00:00",
    "version": "2.7.0"
   },
   "widgets": {
    "application/vnd.jupyter.widget-state+json": {
     "state": {
-     "009dd76a67e84f5bb57d11a195f8d707": {
+     "154a769f6edf456c8457cf06ca83f22b": {
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "model_name": "HTMLModel",
+      "state": {
+       "_dom_classes": [],
+       "_model_module": "@jupyter-widgets/controls",
+       "_model_module_version": "2.0.0",
+       "_model_name": "HTMLModel",
+       "_view_count": null,
+       "_view_module": "@jupyter-widgets/controls",
+       "_view_module_version": "2.0.0",
+       "_view_name": "HTMLView",
+       "description": "",
+       "description_allow_html": false,
+       "layout": "IPY_MODEL_bde910cc452843f585b79e755ff6ad84",
+       "placeholder": "​",
+       "style": "IPY_MODEL_9586f7076c25439e9598822539f01ac7",
+       "tabbable": null,
+       "tooltip": null,
+       "value": "100%"
+      }
+     },
+     "2fa295fac37d4489a533b7eea24550dd": {
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "2.0.0",
+      "model_name": "LayoutModel",
+      "state": {
+       "_model_module": "@jupyter-widgets/base",
+       "_model_module_version": "2.0.0",
+       "_model_name": "LayoutModel",
+       "_view_count": null,
+       "_view_module": "@jupyter-widgets/base",
+       "_view_module_version": "2.0.0",
+       "_view_name": "LayoutView",
+       "align_content": null,
+       "align_items": null,
+       "align_self": null,
+       "border_bottom": null,
+       "border_left": null,
+       "border_right": null,
+       "border_top": null,
+       "bottom": null,
+       "display": null,
+       "flex": null,
+       "flex_flow": null,
+       "grid_area": null,
+       "grid_auto_columns": null,
+       "grid_auto_flow": null,
+       "grid_auto_rows": null,
+       "grid_column": null,
+       "grid_gap": null,
+       "grid_row": null,
+       "grid_template_areas": null,
+       "grid_template_columns": null,
+       "grid_template_rows": null,
+       "height": null,
+       "justify_content": null,
+       "justify_items": null,
+       "left": null,
+       "margin": null,
+       "max_height": null,
+       "max_width": null,
+       "min_height": null,
+       "min_width": null,
+       "object_fit": null,
+       "object_position": null,
+       "order": null,
+       "overflow": null,
+       "padding": null,
+       "right": null,
+       "top": null,
+       "visibility": null,
+       "width": null
+      }
+     },
+     "34f7f810514e4be7b8385f08da626263": {
       "model_module": "@jupyter-widgets/controls",
       "model_module_version": "2.0.0",
       "model_name": "FloatProgressModel",
@@ -2743,115 +3396,17 @@
        "bar_style": "success",
        "description": "",
        "description_allow_html": false,
-       "layout": "IPY_MODEL_7dece22efa854eadae51a093dd974337",
+       "layout": "IPY_MODEL_f6230936bef04c57adaa71a8ed7ad168",
        "max": 1349.0,
        "min": 0.0,
        "orientation": "horizontal",
-       "style": "IPY_MODEL_2028e0bb3b6b4b768bfbb51052429ed2",
+       "style": "IPY_MODEL_fde59b8719ef48d691a26cf879adc9a5",
        "tabbable": null,
        "tooltip": null,
        "value": 1349.0
       }
      },
-     "05f2a40661f04f19a88181965af03d62": {
-      "model_module": "@jupyter-widgets/controls",
-      "model_module_version": "2.0.0",
-      "model_name": "HTMLStyleModel",
-      "state": {
-       "_model_module": "@jupyter-widgets/controls",
-       "_model_module_version": "2.0.0",
-       "_model_name": "HTMLStyleModel",
-       "_view_count": null,
-       "_view_module": "@jupyter-widgets/base",
-       "_view_module_version": "2.0.0",
-       "_view_name": "StyleView",
-       "background": null,
-       "description_width": "",
-       "font_size": null,
-       "text_color": null
-      }
-     },
-     "0b327914613348a584d1f77105520893": {
-      "model_module": "@jupyter-widgets/controls",
-      "model_module_version": "2.0.0",
-      "model_name": "HTMLModel",
-      "state": {
-       "_dom_classes": [],
-       "_model_module": "@jupyter-widgets/controls",
-       "_model_module_version": "2.0.0",
-       "_model_name": "HTMLModel",
-       "_view_count": null,
-       "_view_module": "@jupyter-widgets/controls",
-       "_view_module_version": "2.0.0",
-       "_view_name": "HTMLView",
-       "description": "",
-       "description_allow_html": false,
-       "layout": "IPY_MODEL_ed7b91ae3df04cd1a0832e229194c3a6",
-       "placeholder": "​",
-       "style": "IPY_MODEL_05f2a40661f04f19a88181965af03d62",
-       "tabbable": null,
-       "tooltip": null,
-       "value": "100%"
-      }
-     },
-     "2028e0bb3b6b4b768bfbb51052429ed2": {
-      "model_module": "@jupyter-widgets/controls",
-      "model_module_version": "2.0.0",
-      "model_name": "ProgressStyleModel",
-      "state": {
-       "_model_module": "@jupyter-widgets/controls",
-       "_model_module_version": "2.0.0",
-       "_model_name": "ProgressStyleModel",
-       "_view_count": null,
-       "_view_module": "@jupyter-widgets/base",
-       "_view_module_version": "2.0.0",
-       "_view_name": "StyleView",
-       "bar_color": null,
-       "description_width": ""
-      }
-     },
-     "324d8fe8ca154bff914c1fdd0537ed1f": {
-      "model_module": "@jupyter-widgets/controls",
-      "model_module_version": "2.0.0",
-      "model_name": "HTMLModel",
-      "state": {
-       "_dom_classes": [],
-       "_model_module": "@jupyter-widgets/controls",
-       "_model_module_version": "2.0.0",
-       "_model_name": "HTMLModel",
-       "_view_count": null,
-       "_view_module": "@jupyter-widgets/controls",
-       "_view_module_version": "2.0.0",
-       "_view_name": "HTMLView",
-       "description": "",
-       "description_allow_html": false,
-       "layout": "IPY_MODEL_d0d2fc19a87d49d3867d498e4cdfb207",
-       "placeholder": "​",
-       "style": "IPY_MODEL_5564f8ecc4ed4bb29173a7640c5cea8d",
-       "tabbable": null,
-       "tooltip": null,
-       "value": " 1349/1349 [3:57:48&lt;00:00,  7.93s/it]"
-      }
-     },
-     "5564f8ecc4ed4bb29173a7640c5cea8d": {
-      "model_module": "@jupyter-widgets/controls",
-      "model_module_version": "2.0.0",
-      "model_name": "HTMLStyleModel",
-      "state": {
-       "_model_module": "@jupyter-widgets/controls",
-       "_model_module_version": "2.0.0",
-       "_model_name": "HTMLStyleModel",
-       "_view_count": null,
-       "_view_module": "@jupyter-widgets/base",
-       "_view_module_version": "2.0.0",
-       "_view_name": "StyleView",
-       "background": null,
-       "description_width": "",
-       "font_size": null,
-       "text_color": null
-      }
-     },
-     "7dece22efa854eadae51a093dd974337": {
+     "4539975b503b434e8c9e433c0d5185f3": {
       "model_module": "@jupyter-widgets/base",
       "model_module_version": "2.0.0",
       "model_name": "LayoutModel",
@@ -2904,60 +3459,43 @@
        "width": null
       }
      },
-     "8bf9de2ebc8b4a48988e69890db88c33": {
-      "model_module": "@jupyter-widgets/base",
+     "6f4244310c4043f4a82e30cf62456bcf": {
+      "model_module": "@jupyter-widgets/controls",
       "model_module_version": "2.0.0",
-      "model_name": "LayoutModel",
+      "model_name": "HTMLStyleModel",
       "state": {
-       "_model_module": "@jupyter-widgets/base",
+       "_model_module": "@jupyter-widgets/controls",
        "_model_module_version": "2.0.0",
-       "_model_name": "LayoutModel",
+       "_model_name": "HTMLStyleModel",
        "_view_count": null,
        "_view_module": "@jupyter-widgets/base",
        "_view_module_version": "2.0.0",
-       "_view_name": "LayoutView",
-       "align_content": null,
-       "align_items": null,
-       "align_self": null,
-       "border_bottom": null,
-       "border_left": null,
-       "border_right": null,
-       "border_top": null,
-       "bottom": null,
-       "display": null,
-       "flex": null,
-       "flex_flow": null,
-       "grid_area": null,
-       "grid_auto_columns": null,
-       "grid_auto_flow": null,
-       "grid_auto_rows": null,
-       "grid_column": null,
-       "grid_gap": null,
-       "grid_row": null,
-       "grid_template_areas": null,
-       "grid_template_columns": null,
-       "grid_template_rows": null,
-       "height": null,
-       "justify_content": null,
-       "justify_items": null,
-       "left": null,
-       "margin": null,
-       "max_height": null,
-       "max_width": null,
-       "min_height": null,
-       "min_width": null,
-       "object_fit": null,
-       "object_position": null,
-       "order": null,
-       "overflow": null,
-       "padding": null,
-       "right": null,
-       "top": null,
-       "visibility": null,
-       "width": null
+       "_view_name": "StyleView",
+       "background": null,
+       "description_width": "",
+       "font_size": null,
+       "text_color": null
       }
      },
-     "b962fc40382247319b7e9ebd7b6292d1": {
+     "9586f7076c25439e9598822539f01ac7": {
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "model_name": "HTMLStyleModel",
+      "state": {
+       "_model_module": "@jupyter-widgets/controls",
+       "_model_module_version": "2.0.0",
+       "_model_name": "HTMLStyleModel",
+       "_view_count": null,
+       "_view_module": "@jupyter-widgets/base",
+       "_view_module_version": "2.0.0",
+       "_view_name": "StyleView",
+       "background": null,
+       "description_width": "",
+       "font_size": null,
+       "text_color": null
+      }
+     },
+     "ae6df1d72786425d83a66b02e2e2b987": {
       "model_module": "@jupyter-widgets/controls",
       "model_module_version": "2.0.0",
       "model_name": "HBoxModel",
@@ -2972,16 +3510,16 @@
        "_view_name": "HBoxView",
        "box_style": "",
        "children": [
-        "IPY_MODEL_0b327914613348a584d1f77105520893",
-        "IPY_MODEL_009dd76a67e84f5bb57d11a195f8d707",
-        "IPY_MODEL_324d8fe8ca154bff914c1fdd0537ed1f"
+        "IPY_MODEL_154a769f6edf456c8457cf06ca83f22b",
+        "IPY_MODEL_34f7f810514e4be7b8385f08da626263",
+        "IPY_MODEL_f0327cd91aa04523bb27a34aaa9157d1"
        ],
-       "layout": "IPY_MODEL_8bf9de2ebc8b4a48988e69890db88c33",
+       "layout": "IPY_MODEL_4539975b503b434e8c9e433c0d5185f3",
        "tabbable": null,
        "tooltip": null
       }
      },
-     "d0d2fc19a87d49d3867d498e4cdfb207": {
+     "bde910cc452843f585b79e755ff6ad84": {
       "model_module": "@jupyter-widgets/base",
       "model_module_version": "2.0.0",
       "model_name": "LayoutModel",
@@ -3034,7 +3572,30 @@
        "width": null
       }
      },
-     "ed7b91ae3df04cd1a0832e229194c3a6": {
+     "f0327cd91aa04523bb27a34aaa9157d1": {
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "model_name": "HTMLModel",
+      "state": {
+       "_dom_classes": [],
+       "_model_module": "@jupyter-widgets/controls",
+       "_model_module_version": "2.0.0",
+       "_model_name": "HTMLModel",
+       "_view_count": null,
+       "_view_module": "@jupyter-widgets/controls",
+       "_view_module_version": "2.0.0",
+       "_view_name": "HTMLView",
+       "description": "",
+       "description_allow_html": false,
+       "layout": "IPY_MODEL_2fa295fac37d4489a533b7eea24550dd",
+       "placeholder": "​",
+       "style": "IPY_MODEL_6f4244310c4043f4a82e30cf62456bcf",
+       "tabbable": null,
+       "tooltip": null,
+       "value": " 1349/1349 [1:35:01&lt;00:00,  4.34s/it]"
+      }
+     },
+     "f6230936bef04c57adaa71a8ed7ad168": {
       "model_module": "@jupyter-widgets/base",
       "model_module_version": "2.0.0",
       "model_name": "LayoutModel",
@@ -3085,6 +3646,22 @@
        "top": null,
        "visibility": null,
        "width": null
+      }
+     },
+     "fde59b8719ef48d691a26cf879adc9a5": {
+      "model_module": "@jupyter-widgets/controls",
+      "model_module_version": "2.0.0",
+      "model_name": "ProgressStyleModel",
+      "state": {
+       "_model_module": "@jupyter-widgets/controls",
+       "_model_module_version": "2.0.0",
+       "_model_name": "ProgressStyleModel",
+       "_view_count": null,
+       "_view_module": "@jupyter-widgets/base",
+       "_view_module_version": "2.0.0",
+       "_view_name": "StyleView",
+       "bar_color": null,
+       "description_width": ""
       }
      }
     },
